@@ -1,0 +1,970 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of fair building represented in the figures of several uprights of houses, with their ground-plots, fitting for persons of several qualities : wherein is divided each room and office according to their by Pierre Le Muet ... ; published in English by Robert Pricke ...</title>
+            <title>Manière de bastir pour touttes sortes de personnes. English</title>
+            <author>Le Muet, Pierre, 1591-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 144 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47667</idno>
+            <idno type="STC">Wing L1047</idno>
+            <idno type="STC">ESTC R15714</idno>
+            <idno type="EEBO-CITATION">12158910</idno>
+            <idno type="OCLC">ocm 12158910</idno>
+            <idno type="VID">55243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 111:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of fair building represented in the figures of several uprights of houses, with their ground-plots, fitting for persons of several qualities : wherein is divided each room and office according to their by Pierre Le Muet ... ; published in English by Robert Pricke ...</title>
+                  <title>Manière de bastir pour touttes sortes de personnes. English</title>
+                  <author>Le Muet, Pierre, 1591-1669.</author>
+                  <author>Pricke, Robert.</author>
+               </titleStmt>
+               <extent>[4], 31, [1] p., [48] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Pricke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Manière de bastir pour touttes sortes de personnes.</note>
+                  <note>"Licensed Feb. 1, 1670. Roger L'Estrange"</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in University of Michigan Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Architecture, Domestic --  France --  Early works to 1800.</term>
+               <term>Building --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55243:1" rendition="simple:additions"/>
+            <p>THE ART OF FAIR BUILDING: Repreſented in the Figures of Several uprights of houſes, with their Ground-plots, fitting for perſons of ſeveral Qualities. Wherein is divided each Room and Office according to their moſt conve<g ref="char:EOLhyphen"/>nient occaſion, with their Heights, Depths, Lengths, and Breadths according to Proportion. WITH Rules and Directions for the placing of the Doors, VVindows, Chimnies, Beds, Stairs, and other conveniencies; with their juſt Meaſures for the beſt advantage both of Commodiouſneſs, Health, Strength, and Ornament. Alſo a Deſcription of the Names and Proportions of the Members belong<g ref="char:EOLhyphen"/>ing to the framing of the Timber-work, with Directions and Examples for the placing of them.</p>
+            <p>
+               <hi>By</hi> Pierre Le Muet, <hi>Architect in Ordinary to the French King, and Surveyor of his Deſigns and Fortifications in the Province of</hi> Picardy. <hi>Publiſhed in Engliſh by</hi> Robert Pricke, <hi>for the uſe and benefit of all perſons that are concerned or take delight in the famous art of</hi> Fair Building. <hi>Licenſed Feb.</hi> 1. 1670. Roger L'Eſtrange.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Pricke</hi> in White-croſs ſtreet over againſt the Croſs Keys, and at the Golden Lion at the corner of New Cheapſide next Bethlem; where likewiſe you may have choice of other books of Architecture, alſo Maps, Copy-books, Italian, French, and Dutch Prints, M.DC.LXX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:55243:2"/>
+            <pb facs="tcp:55243:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which firſt gave the occaſion to men to <hi>build</hi> was <hi>Neceſsity;</hi> whenas being oppreſſed with the <hi>untemperateneſs of the air,</hi> and toiled with the <hi>exceſs of the heats of the Sun,</hi> with the <hi>extremities of cold,</hi> with the <hi>tedeous vexations of the ſnows, hail, and rains;</hi> they endeavoured to get under a <hi>Covering,</hi> even in the <hi>firſt and tendereſt age of the world,</hi> as alſo to defend themſelves from the invaſion of <hi>fierce and cruel beasts.</hi> It may be believed, that <hi>the ignorance of the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>standings of that age</hi> did not ſuffer them to build <hi>very ſtately buildings,</hi> but that by degrees their Succeſſors <hi>ſetting their hands to the work,</hi> (as it happeneth in every other thing to be refined in proceſs of time) obtained <hi>a far greater skill in the art of building,</hi> and that they left <hi>Inſtructions</hi> thereof, which their Po<g ref="char:EOLhyphen"/>ſterity have ſtill enriched, <hi>even unto perfection.</hi> All the Hiſtorians give us to underſtand, that the <hi>Aſsyrians and Medes</hi> were famous Builders, inſomuch as they made both <hi>houſes and walls of Cities</hi> of an <hi>immenſe and most incredible greatneſs;</hi> as alſo the <hi>Perſians.</hi> And the <hi>Pyramides of Egypt</hi> ſtill do (even at this day) <hi>ſerve for a witneſſe,</hi> how much the people of that Country <hi>buſied themſelves in buildings.</hi> That ſo renowned <hi>Temple of Salomon</hi> was the reaſon, that there is no body can doubt but that the <hi>Hebrews</hi> had likewiſe <hi>a very great and moſt perfect underſtanding in Architecture.</hi> Nevertheleſs I ſhall ſay, that the <hi>Weſtern people,</hi> having continually <hi>augmented the Sciences</hi> which they re<g ref="char:EOLhyphen"/>ceived from the <hi>Eaſtern,</hi> have likewiſe <hi>ſurpaſſed in the knowledge of Archite<g ref="char:EOLhyphen"/>cture</hi> all the Nations that I have named. The <hi>Greeks</hi> firſt became <hi>excellent</hi> therein; the <hi>Italians</hi> afterwards framed <hi>marvellous works;</hi> and the <hi>French</hi> at this time are able <hi>to practiſe all that</hi> which both the one and the other have known therein; having alſo upon the ſame ſubject brought to light <hi>many ſin<g ref="char:EOLhyphen"/>gular and admirable Inventions:</hi> in ſuch manner that one may well avouch, that if Art hath ever contributed together with Nature <hi>to bring any thing to perfection,</hi> its deſign hath more happily ſucceded in the accompliſhment of <hi>the buildings of our France,</hi> then in any other ſubject (wherein it hath <hi>ſtrived to buſie it ſelf</hi>) whatſoever. For as <hi>Nature</hi> (being favoured by the <hi>temperate ſituation of the Kingdom</hi>) hath cauſed us to ſee there <hi>almoſt in every place, that in abundance</hi> which ſhe hath but ſcattered and ſowen <hi>here and there</hi>
+               <pb facs="tcp:55243:3"/>
+in divers quarters of the Earth. Even ſo <hi>Art,</hi> by the ornament of <hi>ſumptuous buildings,</hi> hath taken care <hi>to beautifie it,</hi> by theſe means bringing <hi>an unſpeak<g ref="char:EOLhyphen"/>able contentment</hi> to the eyes of men; cauſing them <hi>to lodge moſt pleaſantly and ſtately,</hi> which is <hi>one of the moſt delightful contents of this life.</hi> But it would be a ſuperfluous thing to diſcourſe in this place of <hi>the fair building of ſuch Edifices,</hi> ſeeing that our intention is onely to ſhew to the publick view, <hi>the manner of building upon any kind of bigneſs propounded:</hi> to the end that in particular hou<g ref="char:EOLhyphen"/>ſes one may obſerve <hi>the comelineſs and conveniency proportionable</hi> to that, which one may behold <hi>ordinarily</hi> in publick buildings, and other houſes of Enter<g ref="char:EOLhyphen"/>tainment. Therefore I have begun with <hi>the ſmallest ſpace upon which one may build,</hi> unto <hi>ſuch a greatneſs</hi> as we find many perſons to poſſeſs of places of the like meaſure; and afterwards I ſhall work upon <hi>more ſpacious places,</hi> and de<g ref="char:EOLhyphen"/>clare <hi>all that may conveniently be made thereupon.</hi> And herein (Reader) I have conceived my ſelf <hi>no leſs to aſsiſt thee,</hi> then if I had diſcourſed <hi>profoundly of Architecture,</hi> and ſet forth <hi>all its rules:</hi> which yet nevertheleſs I do not renounce, as hoping within a ſmall time <hi>to ſatisfie the curioſity of every one</hi> up<g ref="char:EOLhyphen"/>on this point<g ref="char:punc">▪</g> which ſhall be then when I ſhall publiſh my <hi>Deſigns con<g ref="char:EOLhyphen"/>cerning Royal Buildings,</hi> where thou ſhalt ſee <hi>the divers Orders of Pillars</hi> en<g ref="char:EOLhyphen"/>tirely obſerved, and <hi>the Edifices erected</hi> according to them, with ſuch <hi>enrich<g ref="char:EOLhyphen"/>ments</hi> as are moſt agreeable thereto. I hope there ſhall be found there what<g ref="char:EOLhyphen"/>ſoever ſerveth for <hi>the adorning of Palaces and Churches,</hi> and <hi>I</hi> ſhall make as it were <hi>an abridgment of all that is neceſſary for the raiſing of great buildings.</hi> Re<g ref="char:EOLhyphen"/>ceive in the mean time (Reader) <hi>this Work,</hi> which <hi>I</hi> dedicate <hi>to the benefit of every one,</hi> and thereby you ſhall oblige me <hi>(by accepting it favourably)</hi> to la<g ref="char:EOLhyphen"/>bour more and more <hi>for the benefit of the Publick.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="summary">
+            <pb n="1" facs="tcp:55243:3"/>
+            <head>
+               <hi>A BRIEF DISCOURSE</hi> Of all that which ought to be obſerved in the Framing of every B<g ref="char:V">Ʋ</g>ILDING.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the framing of every Building we muſt have regard to the durableneſs thereof, to the pleaſantneſs and conveniency, to the comly proportion, and to the healthfulneſs of each room therein.</p>
+            <p>The durableneſs of it conſiſteth in the working of it with ſubſtantial ſtuff; but becauſe that this is different according to the diverſity of places, there can be no particular Rules given thereof. This muſt be referred to the diſcretion and judg<g ref="char:EOLhyphen"/>ment of him that buildeth, the which ſhall direct himſelf by the knowledge that he hath gotten by experience of the goodneſs of the ſaid Materials.</p>
+            <p>To give a doe thickneſs to the Walls, agreeable to the height, and the weight which one would have them to bear. Now foraſmuch as that dependeth partly on the goodneſs of the ſaid Materials, the know<g ref="char:EOLhyphen"/>ledge whereof cannot be got but upon the ſaid places, we have alſo referred this point to the diſcretion of the Maſter-builder: having for this purpoſe taken within the Work all the Longitudes and Latitudes of our Deſigns. And nevertheleſs the thickneſs which we have therein uſed, may be obſerved and fol<g ref="char:EOLhyphen"/>lowed with all ſafety in the Buildings, which ſhall be made at <hi>Paris,</hi> and there round about: in the which (as altogether elſewhere) it will be good to obſerve, that whenas the thickneſs of common buildings ſhall be determined, as concerning that which is to be under the ground, one muſt reduce the whole in<g ref="char:EOLhyphen"/>to two thirds, as for that which ſhall be above the ground; and this by the means of two Diviſions on the one part and the other.</p>
+            <p>To cauſe that the burthens above may be placed upon parts able to bear them up, and becauſe that the Planchers, and all that one placeth above, are born up by the beams; one muſt take good heed that he place not the ſaid Beams upon empty places, as upon Windows or Gates. In brief, one muſt take care that empty things be placed upon the empty, as the ſolid upon the ſolid. He muſt alſo take heed, that he cauſe not the Beams to paſs through the Chimnies, by reaſon of the inconvenience that may happen thereby. And he muſt likewiſe take heed that the length of the Beams be not exceſſive, having regard to their thickneſs; upon which, and upon the goodneſs of the wood, dependeth the whole ſtrength.</p>
+            <p>To give to the Joyſts a fitting length, according to the proportion of their thickneſs; for the longer they are, the more weak they are in their middle part. And for this cauſe it is good that the Beams (the which do ſerve as a Rule for the length of the Joyſts) be ſeparated from between nine to twelve feet aſun<g ref="char:EOLhyphen"/>der, and (being conſtrained) unto thirteen; and there is need that they bear within the thickneſs of the Wall between fifteen and eighteen inches on each ſide, and more if it may be done. And to the end that the Planchers may have the ſtrength requiſite, the Joyſts ſhall be divided in ſuch a manner, as there ſhall be as much full as empty, for this alſo will ſerve for ornament.</p>
+            <div type="section">
+               <head>As concerning the pleaſantneſs and conveniency, it muſt be obſerved</head>
+               <p>That the Appartments or divers Rooms be placed the one next to the other, according to the neceſſity or uſe which they have the one of the other, and yet not encumbred one with the other, or as little as may be poſſibly.</p>
+               <p>That the principal Rooms, as the Halls and chiefeſt Chambers, be accompanied with a Wardrobe, and alſo with a Cloſet, if it may be.</p>
+               <p>That the Rooms of the ſame ſtory be placed even with each other, as far as may be poſſible.</p>
+               <p>That every Room be of a largeneſs convenient for the ſervice for which you have intended it. And to effect this, it will be convenient, in places where you are not otherwiſe compelled, to obſerve the Mea<g ref="char:EOLhyphen"/>ſures following.</p>
+               <p>The Hall ſhall have from twenty two to twenty four feet of bredth, for which cauſe we may allow from thirty four to thirty ſix feet of length. But in great buildings it will be convenient to allow for the length twice the bredth. And when there ſhall be made Neceſſary rooms or Cellars under ground, it will be convenient to allow them about eight, nine, or ten feet under the Joyſts, or from nine to ten feet under the Crown of the Arch of the Vaults in depth.</p>
+               <p>The height of the firſt ſtory, upon the lengths and bredths aforementioned for the Halls, may be from thirteen to fourteen feet, and you ſhall augment it according to the ſame proportion, when you ſhall allow more for the length and bredth of the Hall.</p>
+               <p>For the height of the ſecond ſtory, it will be convenient to allow to it from twelve to thirteen feet un<g ref="char:EOLhyphen"/>der the Joyſts.</p>
+               <p>To the third ſtory from eleven to twelve feet.</p>
+               <p>And if one would make Chambers in the Garrets, whether it be in the third or fourth ſtory, it will ſuf<g ref="char:EOLhyphen"/>fice to allow them eight or nine feet of height.</p>
+               <p>For the Chambers, they ſhall have twenty two or twenty four feet: and it is always neceſſary that they be ſquare.</p>
+               <p>
+                  <pb n="2" facs="tcp:55243:4"/>In the framing of the Chambers one muſt have a regard for the placing of the Bed, which is ordinarily about ſix feet ſquare, and the ſpace between the bed and the wall from four to ſix feet; as alſo for the ſituation of the Chimney, the which in conſideration hereof ought not to be ſituate juſt in the midſt, but diſtant therefrom about two feet, whereby place may be allowed for the Bed, and by this means the Inequality is leſs perceived.</p>
+               <p>The leſſer Wardrobe ſhall have in largeneſs from nine to ten feet, and having more room, from fifteen to ſixteen feet.</p>
+               <p>The doors within the Lodging ſhall have two feet and an half of bredth, and three feet at the moſt, in great buildings four feet.</p>
+               <p>Their height ſhall be from ſix feet and an half to ſeven feet.</p>
+               <p>The Gates for the Coaches ſhall have ſeven feet and an half at leaſt of breadth, when you are compel<g ref="char:EOLhyphen"/>led thereto; and from eight to nine, when nothing conſtraineth you. The heighth ſhall be of one breadth and an half; but when you ſhall have the heighth at your pleaſure, it will be convenient to allow to it the double of the breadth.</p>
+               <p>The Stair-caſe ſhall have from eleven to twelve feet of breadth; but (being confined) nine feet ſhall ſerve.</p>
+               <p>The heighth of the Steps ſhall be from five inches and an half to ſix inches.</p>
+               <p>The breadth of the Step ſhall be one foot beſides the Projector, the which may be of two inches or thereabout.</p>
+               <p>And it muſt be obſerved, that where it ſhall be convenient to make the Steps in turning, we can make no more then ten in the half circle, which are five in the quarter of the circle. And if the breadth of the Stair-caſe come to eighteen feet more or leſs, one may make about twelve ſteps in the half circle.</p>
+               <p>The Windows ſhall have opening from four feet to four feet and an half between the two Jaums.</p>
+               <p>For their heights, they ſhall reach as near to the Planchers or Joyſts as can be made, about ſix, eight, ten, and twelve inches at the moſt. For by theſe means the Halls or Chambers are the better enlighten<g ref="char:EOLhyphen"/>ed, and doing otherwiſe they will be darkiſh and ſad.</p>
+               <p>But if the manner of the building outward ſhould compell to make the top of the Window lower then the meaſure aforeſaid; in this caſe you muſt make the inſide of it with a back arch or bowing towards the Plancher or boarded floor, to the end that it may be enlightened the more thereby.</p>
+               <p>The Upholders of the Windows ſhall have from two feet eight inches unto three feet at moſt.</p>
+               <p>The Tranſoms or Croſs-bars of the Windows ſhall have the thickneſs from four to five inches.</p>
+               <p>Their Leaf-works ſhall be from one inch and an half to two inches at the moſt, that the more ſtrength may be kept in the hinder part of them, and that the Frames and Borders of wood, which bear the Shuts or Joyners work to make faſt the Windows, may have convenient ſtrength.</p>
+               <p>The Jaums of the Windows ſhall be ſtrongly faſtened, and have Projectors about two inches at leaſt, that the Joyners work may be faſtened againſt the walls, and within the ſaid Leaves; and it would be needful, that the firſt Leaves ſhould be framed after the length of the Shutters in; for by this means they cauſe leſs hinderance, and afford more clearneſs. And this rule concerneth as well the durableneſs, as the pleaſantneſs and conveniency.</p>
+               <p>The Chimnies of the Halls ſhall have within the Work from ſix to ſeven feet between the two ſides, and it will be good to make the Funnels of them between the thickneſs of the Wall, if it be wholly yours; if not, they ſhall be backed over again, in places where they may correſpond with thoſe of the Chambers, the which will be diſtant but very little from the middeſt, as it hath been ſaid: and if it be poſſible, you muſt make the Chimny to be ſeen in the front by him that ſhall enter into the Hall.</p>
+               <p>The height ſhall be between four and five feet, reaching unto the Toſſels or Bend of the Mantle-tree. The Provector of the Jaums ſhall be between two feet and an half to three feet from the Walls to the outſide of the Mantle-tree.</p>
+               <p>The Jaums or ſides of the Chimnies ſhall have between ſeven and nine inches of thickneſs at the moſt, according to the manner of Arcitecture, by which one ſhall deſire to ſet them out.</p>
+               <p>The Chimneys of the Chambers ſhall have in breadth five feet, or five and an half, and ſhall be placed as aforeſaid, in reſpect of the place of the Bed.</p>
+               <p>Their height ſhall be four feet, or four and an half, unto the Mantle-tree and Flat-bands.</p>
+               <p>Their Provecture ſhall be from two feet to two and an half, from the back of the Chimney unto the fore part of the ſides or Jaums.</p>
+               <p>The Chimneys in the Wardrobe ſhall be four feet, or four and an half, broad.</p>
+               <p>Their height from four to five feet reaching under the Mantle-tree.</p>
+               <p>The Provecture two feet three inches.</p>
+               <p>The opening of the Chimnies generally ſhall have between eleven and twelve inches at the top of the Funnel; and for the Chimneys of great Kitchens fifteen inches, in reſpect of the great Fires which are made there; and they ſhall be brought up as ſtreight as may be poſſible, becauſe that for want of ſo doing one may be often times troubled with ſmoke.</p>
+               <p>Their length ſhall be between four and ſix feet, if the Chimneys have ſix feet below within the work; they ſhall be leſſened within their Mantle-trees by the ſlopings of their lower parts, and their Funels ſhall be drawn by a Plumet.</p>
+               <p>The ſloping or bending within the Chimneys, otherwiſe called the Toſſel or firſt bending, beginneth from the Mantle-tree and reacheth unto the Plancher or Seeling.</p>
+            </div>
+            <div type="section">
+               <pb n="3" facs="tcp:55243:4"/>
+               <head>The fair Ordering or Comelineſs conſiſteth in the Symmetry or equal Proportion, which muſt be taken according to the breadth or height.</head>
+               <p>According to the largeneſs it is fit that the parts equally diſtant from the middle be equal between themſelves.</p>
+               <p>That the parts be proportionable to the whole, and amongſt themſelves.</p>
+               <p>According to the height, it is fit that the parts, in which a Symmetry ſhall be obſerved in reſpect of their breadth or largeneſs, may be alſo of the ſame Perpendicular in their height. For it may happen, that one part of equal proportion in bredth, may not be alſo in height: For example, the half-croſſes or meetings of Pillars, the which you may place in an equal diſtance from the middle of the Building; ne<g ref="char:EOLhyphen"/>vertheleſs the Frontlets which ſhall be put upon them, ſhall not reach to the height of thoſe of the whole croſſes: ſo alſo that which ſhall be equally proportioned in bredth, ſhall not be alſo in height, therefore ſuch works are to be avoided.</p>
+            </div>
+            <div type="section">
+               <head>Concerning the Healthfulneſs of the ſeveral parts of the Building.</head>
+               <p>You ſhall provide for the ſame, by cauſing the Halls and Rooms of the firſt ſtory to be made higher then the ſurface of the ground they ſtand on about two feet or more, according to the moiſtneſs of the place in which you ſhall build: for in doing this you may provide not onely for the healthfulneſs, but alſo for the fair proſpect; by this means rendering your building more ſtately and better enlightened. For making the Cellars or Neceſſary rooms under ground, it will be convenient that the half of their height be within the ground, and the other half above.</p>
+               <p>You ſee here that which we have thought neceſſary to diſcourſe concerning the General Rules, the which if they be not entirely obſerved in the firſt Deſigns of our Buildings, you muſt not think it ſtrange, foraſmuch as the ſmalneſs of ſpace in breadth hath conſtrained us to go out of our own Rules. For the particular Conſiderations, they ſhall be obſerved in the Deſigns and Diſcourſe that we ſhall make upon each place: upon which we ſhall give you advice once for all, that whatſoever is placed on the right hand may be ſet on the left, without changing any dimenſion, according as the largeneſs of the Aſpect, or ſome better Light, or the goodneſs of ſome Neighbouring wall, or ſome other important conſideration, ſhall invite you to chuſe rather the one then the other.</p>
+            </div>
+         </div>
+         <div type="notice">
+            <head>AN ADVERTISEMENT Concerning the Meaſures or Fathoms of the Works, as well for the Maſonry as for the Ground-plots.</head>
+            <figure>
+               <figDesc>ruler</figDesc>
+               <head>The Foot Royal divided into Twelve Inches</head>
+            </figure>
+            <p>THe Meaſures which are uſed in meaſuring all things are either Lineary, or Superficial, or Solid and Maſsive.</p>
+            <p>The Lineary Meaſures are thoſe which have but one onely dimenſion, in the which there is only conſidered the length, without any breadth or thickneſs: as when we make mention of the length onely of a Hall or Chamber, or of its breadth onely, or elſe of its heigth alone, without any reſpect to its other dimenſions; or elſe, as when we ſay, that from ſuch a Village to another is two leagues, we ſpeak onely of the length between them.</p>
+            <p>Of theſe Lineary Meaſures the moſt common is the Lineary Ell, Fathom, or Perch, which is divided into ſix feet Royal, or by the Standard, which is alſo a Lineary Meaſure. The length both of the one and of the other is expreſſed in the <hi>Chaſtelet</hi> of <hi>Paris,</hi> and we have repreſented in the margin the meaſure of one foot, whereby every one may know of what meaſure it is that we have ſpoken in our Deſigns, and that qe may reduce the others to the ſame, according as he ſhall think fit.</p>
+            <p>The Foot is divided into twelve Inches, and the Inch into twelve parts or lines, which is the leaſt Meaſure that is uſed in Architecture.</p>
+            <p>The Superficial Meaſures are thoſe which have two dimenſions, Length and Breadth: as when we ſay, that a Chamber containeth ſixteen fathoms ſquare, we underſtand thereby that it hath four lineary fathoms in one ſenſe, and as many in another; ſeeing that if you multiply the length and breadth the one by the other, you have its Superficies; in ſuch manner as when one lineary fathom containeth ſix feet, the Superficial fathom ſhall contain ſix times ſix feet, which will be thirty ſix feet Superficial. In like manner an Arpent or Acre of ground con<g ref="char:EOLhyphen"/>tains ten times ten Perches, which are an hundred Perches Superficial.</p>
+            <p>The Solid or Maſſive Meaſures are thoſe which have three dimenſions, Length, Breadth, Thickneſs, or Depth: as when we ſay, that in ſuch an empty piece of ground there are threeſcore and four fathoms, and that the length, the breadth, and the depth thereof are equal, we underſtand that there are four fathoms of length upon four of breadth, and four of depth; ſo that four times four make ſixteen, and four times ſixteen make ſixty and four: ſo that for to know how many Solid and Maſſive fathoms any Work doth contain, you muſt multiply the length by the breadth, and then multiply the Product of theſe two by the depth of thickneſs, and in this ſignification one Solid or Maſſive fathom, or Cube, containeth two hundred and ſixteen feet Solid, Gubes, or Maſſive, which are ſix times ſix Lineary feet.</p>
+         </div>
+         <div type="text">
+            <div type="division">
+               <pb n="4" facs="tcp:55243:5"/>
+               <head>The Diviſion of the firſt Place, having of Bredth twelve Feet, and of Depth, from twenty one feet and an half, to any other which ſhall be leſs then twenty five Feet.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N this firſt Ground-plot of twelve feet of breadth, upon twenty one feet and an half of depth, the bredth of the Hall is of nine feet, and the paſſage of three feet; the depth is divided into an Hall or room of fourteen feet, and into a Court of five feet and an half of bredth: and the reſt of the bredth over all this depth is imployed in a Stair-caſe, which ſhall have ſix feet in the ſquare, where under the ſpreading of the ſtairs the Privy ſhall be made. At one of the corners of the Court, near unto the Hall, is the Well: for the going down into the Cellar, it ſhall be made in the paſſage by means of a Trap-door, as well in this Figure as in thoſe that follow, unto the ſixth diviſion of the ſixth plot.</p>
+               <p>As concerning the ſecond ſtory, the Chamber ſhall take up the breadth as well of the hall as of the paſſage; and therefore it ſhall have twelve feet of bredth, and for the depth it is to be regulated by that of the hall below, which is fourteen feet. The reſt of this plane or ſecond ſtory differeth not from the firſt.</p>
+               <p>And when upon this ſame bredth of building the depth ſhould be found between twenty one feet and an half and twenty five, the meaſures of the largeneſs remaining in their Entire, you muſt divide the overplus of the depth in the court and in the hall, according to the deſire of the Maſter of the work.</p>
+               <p>And we have thought fit to declare all the meaſures of the buildings, upon the particular diſcourſe which we have made of the framing of each of them: although that we have mark<g ref="char:EOLhyphen"/>ed them out by Figures upon the planes or ground-plot, for the more perfect inſtruction of them which are leſs exerciſed in the knowledge of the planes or ground-plots.</p>
+               <p>And as concerning the heights, the firſt ſtory ſhall have nine feet under the Joyſt, from the floor of the hall; and the thiekneſs of the Plancher (the Joyſt being contained) ſhall have eight inches, which will be more then ſufficient upon ſo ſmall a bredth; whereof the whole height will be of nine feet eight inches: the which being divided into eighteen ſteps, there will be ſix inches, five parts of an inch, and two thirds, for the height of each of them. The which diviſion ſhall be obſerved alſo for the ſecond ſtory, the which is nine foot high as the firſt. The third ſtory hath eight feet of height under the Joyſt, and eight inches of thickneſs, the Joyſt and Plancher therein contained. This height of eight feet eight inches, being divi<g ref="char:EOLhyphen"/>ded into ſixteen ſteps, we ſhall allow ſix inches and an half of height for each of them, which are two thirds of a part more then the other ſteps, and therefore their difference will not be diſcerned.</p>
+               <p>The Garrets ſhall be above.</p>
+               <p>And becauſe the coming forth neceſſary for the Stair-caſe is hindered by the height which muſt be given to the Privy, they ſhall go down from the Court to the Privy by two ſteps, whereof one ſhall be within the Court, and the other within the Privy, having each of them nine inches of height.</p>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Groundplot of y<hi rend="sup">e</hi> 2<hi rend="sup">d</hi>
+                     <g ref="char:punc">▪</g> storie,</p>
+                  <p>The Groudplot of y<hi rend="sup">e</hi> first storie</p>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:6"/>
+               <pb n="5" facs="tcp:55243:6"/>
+               <head>The Diviſion of the ſecond Place, having the ſame breadth of twelve feet upon twenty five of depth; the which ſhall ſerve likewiſe unto fifteen feet of bredth, and thirty five and an half of depth, the whole incluſively.</head>
+               <p>
+                  <seg rend="decorInit">E</seg>Ven as the whole breadth is in nothing different from that of the fore go<g ref="char:EOLhyphen"/>ing Figure, ſo there ſhall not be any difference in the parts. Therefore the Hall ſhall have nine feet in breadth, and the Paſſage three; and ſo for the ſtory above, the Chamber ſhall have the whole breadth of twelve feet. But the dividing the depth may be done in two manners; the one as the fore-going, without a Cloſet, allowing the remainder of the depth which this Figure hath more then the former, to the Hall, or to the Court, or elſe partly to the one and partly to the other. The ſecond manner is in making a Cloſet at the end of the Hall, and of the ſame breadth of nine feet upon three and an half deep, which is the leaſt that you can allow to the Cloſet; and this ſame depth of three feet and an half is alſo the greateſt that you can allow to the Cloſet in this preſent depth: For if you make it deep<g ref="char:EOLhyphen"/>er, you ſhall not have room enough for the ſituation of the bed; and in this manner there will remain fourteen feet deep as well for the Hall as the Chamber.</p>
+               <p>And it muſt be obſerved, that from this breadth unto that of nineteen feet, the Cloſet cannot be made otherwiſe; but coming to twenty, one may change it, as ſhall be ſhewed hereafter.</p>
+               <p>And where the breadth of the place ſhall be greater then twelve feet, and leſs then fifteen, the remainder ſhall be allowed to the breadth of the Hall and the Chamber, leaving always the Paſſage of three feet.</p>
+               <p>And as concerning the depth, from twenty five feet unto thirty five and an half, the re<g ref="char:EOLhyphen"/>mainder thereof ſhall be added to the Hall, the Cloſet, and Court, at the diſcretion of the Builder.</p>
+               <p>The heights ſhall be nine feet under the Joyſts, for the firſt and ſecond ſtories, and eight for the third, as in the foregoing Figure: and accordingly the ſame height of ſteps ſhall be fol<g ref="char:EOLhyphen"/>lowed in the preſent work.</p>
+               <p>The Precaution as concerning the coming out of the Stairs above the Privy ſhall be kept, as in the precedent Figure.</p>
+            </div>
+            <div type="division">
+               <head>The firſt Diviſion of the third Place, from fifteen feet of breadth unto eighteen and an half, and of depth from thirty five feet and an half unto forty eight and an half.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His may be made in three different manners, to each of which we have appropriated its Deſign. The firſt keepeth the diviſion in the breadth of the former, in the Hall of twelve feet, and the Paſſage of three, but the depth addeth to the foregoing a Kitchen below, and a Wardrobe above inſtead of a Cloſet. The Stair-caſe keepeth its firſt ſituation and breadth, but not its firſt ſhape: For its depth, containing the Stairs, is augmented thereby unto ten feet, which is that of the Court, and the Steps ſtand for Wards on the Front to them that enter in; which could not be done in the former Deſigns. The Kitchen therefore ſhall have nine feet in depth, the Hall fifteen, and the Court ten, as hath been ſaid: and in this Diviſion one may change the places of the Hall and the Kitchen very eaſily, there being no queſtion of tranſlating the Incloſure, reſerving to each of them its own depth. The which alſo may be underſtood of the ſtory above, as one will; foraſmuch as they may leave it in its own ſhape, with changing that beneath.</p>
+               <p>Further, we would repreſent the ſhape of the Fore-part of the Building Bias wiſe or ſloping, becauſe that this happeneth commonly in the Situations of the Platforms of Towns, to ſhew thereby, that al<g ref="char:EOLhyphen"/>though that one of the Fronts or Faces be Bias, yet we need not ceaſe to make the Rooms or Appart<g ref="char:EOLhyphen"/>ments with right angles. The which let it be once ſaid for all.</p>
+               <p>The height of the firſt and ſecond ſtory ſhall have ten feet under the Joyſts, which ſhall be ten feet eight inches, containing the thickneſs of the Plancher, in which height the diviſion in the Stair-caſe may be made two ways. The firſt, following the Deſign, according to which they aſcend by nineteen ſteps; and therefore every ſtep ſhall have ſix inches and nine parts of height. The ſecond way may be uſed by allowing eight ſteps to the turning of the Stairs inſtead of ten, to make it more eaſie; and continuing the Stairs, by turning them even over againſt the Chamber, which will raiſe it four ſteps, and ſo we ſhall have in all twenty one ſteps: by the which the whole height of ten feet eight inches being divided, we ſhall have for the height of each ſtep ſix inches and one part, according to this ſecond manner.</p>
+               <p>The third ſtory hath nine feet in height under the Joyſts, which ſhall be containing the thickneſs of the Plancher nine feet eight inches, which being divided by nineteen ſteps, will allow us ſix inches and one part for the height of each.</p>
+               <p>Above there may be Granaries or Chambers in Garrets, from ſeven to eight feet under the Joyſts.</p>
+               <p>The inconvenience of the coming out of the Stairs above the Privy, may be avoided by the manner ſet down here before.</p>
+            </div>
+            <div type="division">
+               <pb n="6" facs="tcp:55243:7"/>
+               <head>The ſecond Diviſion of the third Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond manner of Diviſion of the Ground-plot above mentioned keepeth that of the precedent in the breadth, which is divided in the Hall of twelve feet, and the Paſſage of three. The differenee conſiſteth in the changing the place of the Stairs and Kitchen, and in the enlargment of the Court for the ſtory that is under, and in changing the place of the Chamber and Wardrobe in that above. The Hall ſhall have fifteen feet in depth, the Kitchen nine, upon eight and an half of breadth; foraſmuch as the reſt is employed in the Stair-caſe, which hath ſix feet in ſquare. The Court hath ten feet in depth upon fifteen of breadth. The ſtory above is conformable to that below, except the Paſſage; ſo that the Chamber will have fif<g ref="char:EOLhyphen"/>teen feet in ſquare, the whole within the work, as above.</p>
+               <p>The height of the firſt and ſecond ſtory ſhall have ten feet under the Joyſt, which will be ten feet eight inches, containing therein the thickneſs of the Plancher; the which divided by the nineteen ſteps of the ſtairs, will afford us ſix inches nine parts for the height of each ſtep.</p>
+               <p>The height of the third ſtory ſhall have nine feet eight inches, containing the thickneſs of the Plancher: and therefore each ſtep ſhall have ſix inches and one part of height, as in the precedent Figure.</p>
+               <p>Above may be Granaries or Chambers in garrets, from ſeven to eight feet high under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <head>The third Diviſion of the third Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He third manner of retaining the former Diviſion in reſpect of the breadth in the Hall of twelve feet, and for the Paſſage three; but we muſt cauſe the place for the Stairs for the Kitchen and for the Hall to be changed.</p>
+               <p>The ſtairs therefore muſt be made on the Front, and of the ſame breadth of ſix feet ſquare. Againſt the Nuel or Spindle of the ſtairs ſhall be made a ſecond door, which ſhall be kept ſhut, when the firſt ſhall be opened: on the ſide of the ſtairs is the Kitchen, having in depth nine feet and an half, upon eight and an half of breadth; the Hall fifteen feet of depth, and at one of the ends ſhall be made a little Napery or place for Linen; behind which ſhall be the Privy. The Court ſhall have nine feet and an half in depth, upon ten and an half of breadth.</p>
+               <p>The ſtory above the Wardrobe ſhall be wholly and over all, like to the Kitchen, and the Chamber ſhall have fifteen feet in ſquare, in one corner of which a Cloſet ſhall extend the whole depth of the Court.</p>
+               <p>And from the breadth of fifteen feet unto eighteen and an half excluſively, you may keep the ſame diviſion, always allowing three feet for the paſſage, and ſix for the ſtairs, and en<g ref="char:EOLhyphen"/>larging the other parts with the remainder. But as in reſpect of the depth from thirty five feet and an half unto forty five and an half, that augmentation ſhall be divided unto the Hall, the Kitchen, and the Court, according to the judgment and pleaſure of the Maſter builder, as alſo the choice of one of the three Faſhions aforegoing ſhall be reſerved to him.</p>
+               <p>The height of the firſt and ſecond ſtory ſhall have ten feet under the Joyſts, and nineteen ſteps; and dividing the height of every ſtep, it will be ſix inches and nine parts of an inch, as in the Figure a foregoing.</p>
+               <p>The height of the third ſtory ſhall be (comprehending the Plancher) nine feet eight inches, and a like quantity of ſteps; and dividing the height of each of them, it will be ſix inches and one part.</p>
+               <p>Above may be Granaries or Chambers in the Garrets, between ſeven and eight feet under the Joyſts, of height,</p>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Groundplot of y<hi rend="sup">e</hi> ſecond story,</p>
+                  <p>The Groundplot of y<hi rend="sup">e</hi> first ſtory,</p>
+               </figure>
+               <pb facs="tcp:55243:8"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>the ſecond Story,</p>
+                  <p>Groundplot of y<hi rend="sup">e</hi> first Story</p>
+               </figure>
+               <pb facs="tcp:55243:9"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>Front to the ſtreet,</p>
+                  <p>Second ſtorie,</p>
+                  <p>First ſtorie,</p>
+               </figure>
+               <pb facs="tcp:55243:10"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The ſecond storie,</p>
+                  <p>The Ground plot of y<hi rend="sup">e</hi> firſt ſtory</p>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:11"/>
+               <pb n="7" facs="tcp:55243:11"/>
+               <head>The Diviſion of the fourth Place, from eighteen feet and an half of breadth unto twenty, and of depth from fifty feet unto ſixty one and an half.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N this Diviſion you always keep that of the breadth, ſtill allowing three feet for the Paſſage, and the reſt for the Hall and other rooms. The difference from the former conſiſteth in a part more, which is made at the end of the Court, which you may make ſerve for a Stable, a Larder, or a Chamber, as you pleaſe. The Halls then ſhall have fifteen feet of breadth upon ſeventeen of depth The Kitchen ſhall have eleven feet and an half of breadth upon nine of depth, on the ſide of which ſhall be the Stairs, always ſix feet ſquare. The Court ſhall have eighteen feet and an half of breadth upon eleven of depth; at the end of the which ſhall be a fair Lodging over the whole breadth of eighteen feet and an half upon ten and an half of depth; and at one of the ends of the ſaid breadth ſhall be the Privy, behind which ſhall be the place of a Bed for a Boy. The ſtory above ſhall follow the diviſion of that below, and ſhall have more a Gallery of three feet broad, for to go from one part of the houſe to the other. The Chamber therefore ſhall have eighteen feet and an half of breadth upon ſeventeen of depth, and the Wardrobe ſhall be eleven feet and an half broad upon nine deep.</p>
+               <p>And from the breadth of eighteen feet and an half unto twenty you may keep the ſame diviſion, always allowing three feet for the Paſſage, and ſix feet in ſquare for the Stairs, and enlarging the other parts with the remainder. But as concern<g ref="char:EOLhyphen"/>ing the depth, from fifty feet to ſixty one and an half, the augmentation ſhall be divided upon the Hall, the Kitchen, the Court, and the Lodging room behind, according to the judgment and pleaſure of the Builder.</p>
+               <p>The height of the firſt and ſecond ſtory of the principal body of the Building, which is on the front, ſhall have ten feet under the Joyſts, which will be ten feet eight inches, comprehending the thickneſs of the floor and ſeeling, which height be<g ref="char:EOLhyphen"/>ing divided into nineteen ſteps of the Stairs, will yield us ſix inches and nine parts of an inch, for the height of each.</p>
+               <p>The third ſtory ſhall have nine feet eight inches of height, comprehending the thickneſs of the Joyſts and Planchers, the which being divided with the like quantity of Steps, there will be ſix inches and one part for the height of each.</p>
+               <p>Above may be Granaries or Chambers in the Garrets, from ſeven to eight feet under the Joyſts.</p>
+               <p>The height of the body of the Lodging behind ſhall have eight feet four inches under the Joyſts, which will be nine feet, comprehending the thickneſs of the Joyſts and Plancher: and becauſe that the height of every Step is ſix inches and nine parts of an inch, you muſt aſcend thither by ſixteen ſteps, whereof twelve ſhall be taken in the Stair-caſe, and the four as well in the thickneſs of the Wall, as the depth of the Gallery.</p>
+               <p>The ſecond ſtory ſhall have nine feet under the Joyſts, and nine feet eight inches, comprehending the thickneſs of the Joyſts and plancher, and above may be Granaries in Garrets.</p>
+            </div>
+            <div type="division">
+               <head>The Diviſion of the firſt Place, from twenty feet of breadth unto thirty, and upon the ſame depth, of ſixty one feet and a half.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He greatneſs of this Ground plot giveth us the advantages which we could not have in the foregoing; it is therefore that its Diviſion is much different from the other, and we may have two Courts inſtead of one, and a Stair-caſe with two bottoms, and the Paſſage placed in the middeſt, or in the corner, at our own choice; whereas in the former Buildings it was neceſſarily driven into the corner. The Paſſage then is appointed in the middeſt of the breadth of the Edifice of four feet in breadth, having on the one ſide the Kitchen and Stairs, and on the other the Buttery.</p>
+               <p>The Kitchen as alſo the Buttery ſhall have in breadth eight feet upon ten of depth; the Court ſhall have thirteen feet of breadth upon nineteen of depth; and the reſt of the breadth, which is ſeven feet, ſhall remain for the breadth of the Stairs, containing alſo the thickneſs of the wall. From the Court they go up two ſteps to enter into the Hall, which ſhall have twenty feet of breadth upon eighteen feet of depth, and the reſt of the depth (which is ten feet) ſhall be employed in a little Court behind, and in a Cloſet at one of the corners of the Hall, which ſhall have ſix feet of breadth upon the ſame depth of the Court.</p>
+               <p>For the ſtory above of the body of the Building before, you ſhall have the Chamber and Stairs on the one ſide, and the Wardrobe on the other; the Chamber ſhall have thirteen feet of breadth upon ten of depth, and the Wardrobe ſeven feet of breadth upon the ſame depth; and in one of the corners of the Chamber, between the Chamber and the Steps, ſhall be the Privy; for the body of the Building behind the Chamber ſhall have thirteen feet of breadth upon eighteen of depth, the Wardrobe ſeven feet of breadth upon fifteen of depth; the Cloſet above ſhall be like to that below.</p>
+               <p>This Diviſion may be changed without altering any of the Meaſures. Firſt, by leaving the Paſſage in the middle where it is, the which may be done two ways; that is, by tranſpoſing the Kitchen and the Buttery from one hand to the other, and not removing the Stairs from their place, or elſe by making the ſame change, and tranſpoſing alſo the Stairs. And this ſeemeth to be more convenient, becauſe that the Kitchen, the Stairs, and the Entry of the Hall, being on the ſame ſide, the ſervice will be made under covert. Secondly, the change may be made by taking away the Paſſage from the middle, for to place it at one of the ends; the which doing, you ſhall place the Kitchen and the Buttery one againſt the other, and you may enlarge the Kitchen unto ten and twelve feet, which you ſhall gain upon the Buttery, which hath no need of ſo great a breadth; the which doing, you have the choice of placing either the Paſſage or the Kitchen on the ſide of the Stairs, according as you ſhall find the one more fitting then the other.</p>
+               <p>This Diviſion may alſo be changed four ways, according to the Deſigns ſet forth by the Figures 3, 4, 5, and 6, by ſepara<g ref="char:EOLhyphen"/>ting the augmentation of the place, as well in breadth as in depth, to each room or appartment, as it ſhall be found moſt convenient.</p>
+               <p>And from the breadth of twenty feet unto thirty you can change nothing in that Form; but you may well allow ſeven or eight feet of breadth to your Stairs, and the reſt to the Hall and other parts: and whenas your breadth ſhall exceed twen<g ref="char:EOLhyphen"/>ty four feet, you muſt change the ſituation of your Beams from the breadth into the depth; for the depth receiveth no other changing then that which is mentioned here above. And the ſame breadth remaining as above, if the depth exceed<g ref="char:EOLhyphen"/>ed not fifty eight feet, then we ſhould not ſpeak any more of making two Courts, but the Diviſion might be made in one of the two manners following.</p>
+               <p>The height of the firſt and ſecond ſtory of the body of the Building on the fore part ſhall have nine feet under the Joyſts, which will be nine feet eight inches, comprehending the thickneſs of the Joyſts and Plancher: they ſhall aſcend thither by twenty one ſteps, and therefore the height of each ſhall be of five inches, ſix parts, and one third of a part.</p>
+               <p>From the floor of the Court they ſhall go up by two ſteps to enter into the Hall of the chief body of the Building, which is behind, the which Hall ſhall have in height from the Floor to under the Joyſts eleven feet eight inches, which will be comprehending the thickneſs of the Joyſts and Plancher, eleven feet eight inches. And becauſe that the ſteps have five in<g ref="char:EOLhyphen"/>ches, ſix parts, and a third of height, there will be need of twenty ſix, whereof nineteed being on the Stairs, there will re<g ref="char:EOLhyphen"/>main ſeven ſteps, which ſhall be taken within the Turning thereof, which is upon the Court.</p>
+               <p>The ſecond ſtory of the chief body of the Building ſhall have ten feet under the Joyſts, and eight inches of the thickneſs of the plancher, comprehending the Joyſts, and therefore ſhall aſcend by twenty threeſteps of five inches and a half apiece.</p>
+               <p>The third ſtory ſhall have nine feet eight inches, containing the thickneſs of the plancher, and therefore they ſhall go up hitther by twenty and one ſteps, of five inches and an half apiece.</p>
+               <p>Above may be Granaries, or Chambers in Garrets, from ſeven to eight feet high under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <pb n="8" facs="tcp:55243:12"/>
+               <head>The Diviſion of the ſixth Place, of thirty feet of breadth unto thirty eight feet, and of fifty eight of depth unto an hundred.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the firſt Figure of this Diviſion, which is the eighth in order, the breadth of thirty feet is divided into a Paſſage of four feet and an half, and an Hall of twenty five feet upon twen<g ref="char:EOLhyphen"/>ty in depth; the which is followed by the Court, which hath nineteen feet in depth, and in breadth twenty one. And the reſt of the breadth is employed in a Stair-caſe, which hath eight feet in breadth within the work. The reſt of the depth is employed in a body of a Lodging behind, having fifteen feet in depth, whereof the breadth is divided into a Kitchen of nine feet, and a Buttery of ten. The diviſion of the ſecond ſtory followeth that of the firſt, except in the body of the Building before, where the Chamber ſhall have twenty feet in ſquare, and the Wardrobe nine feet and an half in breadth.</p>
+               <p>And when upon the ſame breadth the depth ſhould be found much greater, in ſuch manner as one might have made a Court or Garden upon the back part, he might have cauſed that the body of the Build<g ref="char:EOLhyphen"/>ing behind might be enlightened on both ſides without changing the diviſion of the parts.</p>
+               <p>We muſt note, that in all the Deſigns aforegoing, in reſpect of the ſmalneſs of the breadth of the pla<g ref="char:EOLhyphen"/>ces, we have made uſe of incloſures of boards, which have but one inch of thickneſs. In the following, where we have more convenience for the breadth, we ſupport them with Carpenters work and Plaſtering, whereof the Poſts and Summers about the top ſhall have from four to ſix inches, to the end that no man deceive himſelf with the numbers by which the breadth and depth are marked; the which ought always to be underſtood within the work, as heretofore.</p>
+               <p>It muſt alſo be obſerved, that hitherto we have always allowed eight inches for the thickneſs of the Joyſts and Plancher, which are three inches for the thickneſs of the Plancher, and five for thoſe of the Joyſts, which was ſufficient for the ſmall bearing of the Buildings aforegoing. Now for thoſe which follow we allow nine, whereof ſix are for the thickneſs of the Joyſts, and three for the thickneſs of the Plaſtering and Boards, which is neither encreaſed nor diminiſhed.</p>
+               <p>As for the heights, the Floor of the Hall ſhall be higher by one foot then the ſurface of the Court, to the which Hall they ſtall aſcend by two ſteps. The Hall ſhall have of height under the Joyſts twelve feet three inches, and together with the Joyſts and thickneſs of the Plancher thirteen feet; to the which height they ſhall aſcend by twenty ſix ſteps of ſix inches each of them, whereof twenty three ſhall be upon the turning of the Stairs faſtened to the wall, and three other to that which looketh towards the Court.</p>
+               <p>The ſecond ſtory ſhall have eleven feet nine inches, containing the thickneſs of the Plancher, the which being divided by twenty ſix ſteps, it will afford us five inches and five parts for the height of each.</p>
+               <p>The third ſtory ſhall have ten feet nine inches, the thickneſs of the Plancher contained, the which be<g ref="char:EOLhyphen"/>ing divided by twenty ſix ſteps, will allow five inches for the height of each.</p>
+               <p>Above may be Granaries or Chambers in the Garrets from ſeven to eight feet high under the Joyſts.</p>
+               <p>The body of the Building behind ſhall be alſo higher by a foot then the floor of the Court, to which likewiſe they ſhall aſcend by two ſteps, and ſhall have of height from the floor under the Joyſts ten feet nine inches, and with the thickneſs of the Joyſts and Plancher eleven feet and an half: to which they ſhall aſcend by twenty three ſteps or ſtairs, of ſix inches each. And for the ſecond ſtory it ſhall have of height under the Joyſts nine feet eight inches, and with the Joyſts and Plancher ten feet five inches, of which height muſt be deducted one foot and an half for the height of three ſteps, which are at the going up that looketh towards the Court. There remain eight feet eleven inches to aſcend by ſteps, which ſhall have five inches five parts apiece; and thereby there will be twenty, whereof diviſion muſt be made againſt the Wall.</p>
+               <p>Above may be Granaries or Chambers in Garrets, from ſeven to eight feet high under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Diviſion of the ſixth Place, having the ſame breadth of thirty feet, and of depth fifty eight.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Diviſion of the ſame ſpace followeth in breadth the foregoing Diviſion, in a Paſſage of four feet and an half, and the reſt in an Hall of twenty five feet upon twenty of depth, the which is followed by a Kitchen of ſeventeen feet of depth upon twenty of breadth: and the reſt of the breadth is employed in the Stairs, which have nine feet of breadth within the work. At the end of the Kitchen is a Buttery of eight feet broad upon eleven deep, behind which is the Privy. And by theſe means we have made the body of the Building double, by placing the Court behind, which hath twenty one feet of breadth upon ſeventeen and an half of depth.</p>
+               <p>There is not any change in the ſtory above, but onely that the Chamber hath twenty feet in ſquare, and the Wardrobe nine and an half in breadth, where one may alſo make a Chimney, as is ſhewed by the Figure before.</p>
+               <p>For the heights, the Hall ſhall have twelve feet three inches under the Joyſts, and thirteen feet, con<g ref="char:EOLhyphen"/>taining the thickneſs of the Joyſts and the Plancher; to the which ſtory they ſhall aſcend by twenty ſix feet of ſix inches apiece.</p>
+               <p>The ſecond ſtory ſhall have eleven feet nine inches of height, containing the thickneſs of the Plan<g ref="char:EOLhyphen"/>cher, and they ſhall aſcend by twenty four ſteps.</p>
+               <p>The third ſtory ſhall have ten feet nine inches, contain in the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty two ſteps.</p>
+               <p>Above may be made Granaries, or Chambers in Garrets, as in the foreſaid manner.</p>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>the front to y<hi rend="sup">e</hi> street</p>
+                  <p>the ſecond Storie,</p>
+                  <p>the first ſtorie,</p>
+               </figure>
+               <pb facs="tcp:55243:13"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>next the Court,</p>
+                  <p>Front next y<hi rend="sup">e</hi> ſtreet,</p>
+                  <p>of the 2<hi rend="sup">d</hi>, ſtory,</p>
+                  <p>Ground plot of the Firſt ſtory,</p>
+               </figure>
+               <pb facs="tcp:55243:14"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>next the Court,</p>
+                  <p>Front next the ſtreet,</p>
+                  <p>the ſecond ſtorie</p>
+                  <p>the firſt ſtorie</p>
+               </figure>
+               <pb facs="tcp:55243:15"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Front to the Street,</p>
+                  <p>Front to the</p>
+                  <p>The Ground plot of the first storie.</p>
+                  <p>the ſecond Storie,</p>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:16"/>
+               <pb n="9" facs="tcp:55243:16"/>
+               <head>The Diviſion of the ſeventh Place, of thirty eight feet of breadth or there<g ref="char:EOLhyphen"/>about, and of depth an hundred feet.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Ground-plot hath but one only Diviſion, becauſe that all the change which can be made therein, may be reduced to two precedent Figures. It hath therefore thirty eight feet of breadth upon an hundred of depth, and conſiſtt in two bodies of a Building; the firſt on the Front, whoſe breadth is divided into a Kitchen of fourteen feet broad upon twenty deep, and a Stable having equal dimenſions with the Kitchen, and a paſſage for a Coach between the two nine feet broad. Next followeth the Court, being thirty feet deep upon twentie eight broad, and the reſt of the breadth upon this whole depth is imployed in a Stair-caſe, which hath nine feet of breadth, and in a Larder of the like breadth, upon ſeven feet deep, joyn<g ref="char:EOLhyphen"/>ing to the Kitchen.</p>
+               <p>The principal body of the Building, which is on the back part, conſiſteth in a Hall being twenty five feet broad upon twenty two feet deep, and in the reſt of the breadth is a Cham<g ref="char:EOLhyphen"/>ber or little Hall, between which and the Stairs there is a Paſſage of four feet, at the bottom of which the Privy ſhall be placed. In the reſt of the depth ſhall be a Garden, into which they ſhall enter by the hall, or by the little hall, as they pleaſe.</p>
+               <p>The ſtory above hath the ſame diviſions with that below, except that on the Front of the body of the building over the Stable is a Chamber, upon the Paſſage a Wardrobe, and upon the Kitchen a Cloſet.</p>
+               <p>It will happen ſometimes, that the Ground-plot propoſed ſhall have more breadth then that aforeſaid, and leſs depth then ſhall be requiſite to frame two bodies of a building, in the ſituation wherein they are in the Figures precedent, and then the Order muſt be changed ac<g ref="char:EOLhyphen"/>cording to one of the manners which ſhall be ſet down hereafter.</p>
+               <p>The going down to the Cellar ſhall be made under the Stairs, as well in the principal body of the building, as in that on the front; and if one would have it ſo, on the ſide of the ſtreet under the Chimney of the Kitchen.</p>
+            </div>
+            <div type="division">
+               <head>The <g ref="char:V">Ʋ</g>pright on the front, and alſo the Building in the rear, of the ſeventh Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He floor of the Bodie of the Building in the Front ſhall have the ſame level with that of the Court. The firſt ſtory ſhall have in height fourteen feet ſix inches under the Joyſts, and fifteen feet three inches, containing the thickneſs of the Joyſts and Plancher, unto which they ſhall aſcend by three ſteps of ſix inches high apiece, which ſhall be the level of the foot of the ſtairs, and of the body of the building behind, the which ſhall have of height under the Joyſts thirteen feet, and containing the thickneſs of the Joyſts and Plancher, thirteen feet nine inches; to which they ſhall aſcend by twenty four ſteps, of ſix inches and ten parts of an inch apiece, which ſhall bring you as well into the bodie of the building before as that behind, ſeeing that they have the ſame level.</p>
+               <p>The ſecond ſtorie, as well of that before as that behind, ſhall be elevated twelve feet under the Joyſts, and twelve feet nine inches, comprehending the thickneſs of the Joyſts and Plan<g ref="char:EOLhyphen"/>cher, unto which they ſhall aſcend by twentie four ſteps, being ſix inches and five parts each of them.</p>
+               <p>The third ſtorie, as well before as behind, ſhall have in height ten feet under the Joyſts, and together with the thickneſs of the Joyſts and Plancher ten feet nine inches, unto which they ſhall aſcend by twentie four ſteps of five inches and five parts apiece.</p>
+               <p>Above are Granaries or Chambers in garrets, from eight to nine feet high under the Joyſts,</p>
+            </div>
+            <div type="division">
+               <pb n="10" facs="tcp:55243:17"/>
+               <head>The Diviſion of the eighth Place, of fifty feet of breadth upon fifty eight of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Diviſion may be may be made three ſeveral ways, in the firſt of which this breadth of fifty feet is employed in a body of a building on the Front, of twenty two feet deep, whereof the breadth is divided into an Hall of twenty ſeven feet and an half, a Paſſage of eight feet, and a Stable of thirteen. The reſt of the depth conſiſteth in a Court of thirty two feet broad, and the reſt of the breadth comprehendeth a Kitchen, a Buttery, and Stairs joyning to the Hall, whereof the Meaſures are deſcribed upon the Platform; and at one corner of the ſtairs ſhall be the Privy. The Diviſion of the ſecond Plane or Ground-plot ſhall be ſeen in the next leaf.</p>
+               <p>As for the heights, the floor of the Hall, Stairs, Buttery, and Kitchen ſhall be one level, elevated one foot above the floor of the Court; from which they ſhall go to the Stable on a level, as to the others they ſhall go up by two ſteps.</p>
+               <p>The firſt ſtory ſhall have thirteen feet nine inches, comprehending the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by twenty ſeven ſteps, ſix inches high apiece.</p>
+               <p>The ſecond ſtory ſhall have twelve feet nine inches, comprehending the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty ſix ſteps, ſix inches high apiece.</p>
+               <p>The third ſtory ſhall have eleven feet nine inches high, comprehending the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty four ſteps, of ſix inches high.</p>
+               <p>Above may be Granaries or Chambers in Garrets.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the firſt Diviſion of the eighth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Story conſiſteth in two Chambers and a Wardrobe, the firſt placed over the Hall, having thirteen feet and an half in breadth, upon ſeventeen and an half deep, the reſt of the depth being employed in a Paſſage of four feet between the ſaid Chamber and the ſtairs. The ſecond Chamber joyning to the firſt ſhall have nineteen feet in breadth, upon the whole depth of twenty two feet. The Wardrobe ſhall be thirteen feet broad upon the ſame depth. The place of the bed of the principal Chamber may be ſet againſt the Incloſure.</p>
+               <p>Above the Kitchen and Buttery ſhall be a Chamber ſixteen feet and an half broad, upon twentie four deep; and it is at the choice of him that builds to elevate both the bodies of the building equally, or otherwiſe, as he ſhall ſee it moſt convenient.</p>
+               <p>The Elevation of the ſide that looks to the Court, is here inſerted above the Elevation of the ſecond ſtory: but it hath no need of any particular declaration, becauſe it doth not change at all the meaſure from that aforegoing.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <p>The Groundplot of the ſecond Storie,</p>
+                  <p>The Groundplot of the first Storie,</p>
+               </figure>
+               <pb facs="tcp:55243:18"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Vpright to the Court,</p>
+                  <p>The Front to the street,</p>
+               </figure>
+               <pb facs="tcp:55243:19"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Front to the ſtreet,</p>
+                  <p>The Groundplot of the first Storie.</p>
+               </figure>
+               <pb facs="tcp:55243:20"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Face to the Court,</p>
+                  <p>The Groundplot of the ſecond Story</p>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:21"/>
+               <pb n="11" facs="tcp:55243:21"/>
+               <head>The ſecond Diviſion of the eighth Place, of the ſame breadth of fifty feet upon fifty eight of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond manner according to which the ſpace above mentioned may be divided, is by a Body of a Building ſituate on the Front, having in depth thirty eight feet and an half within the work upon the whole breadth, the which ſhall be divided upon the Fore-part into an Hall, being thirty feet broad upon twenty deep; a Paſſage of five feet, and a Stable fourteen feet broad. The Back-part ſhall contain a Kit<g ref="char:EOLhyphen"/>chen and a Chamber, the Stair-caſe being between the two. The Kitchen ſhall have twenty five feet in breadth upon ſeventeen deep, the Stairs nine feet, and one Chamber thirteen feet and an half. At the end of the Kitchen is a Buttery, ha<g ref="char:EOLhyphen"/>ving nine feet broad upon eleven and an half deep, behind which ſhall be the Privy. One may ſet at one of the corners of the Stairs a Privy to ſerve above. The Court ſhall be forty feet broad upon ſeventeen and an half deep.</p>
+               <p>The deſcent of the Cellar ſhall be taken right under the firſt turning of the Stair-caſe.</p>
+               <p>And if one would within the ſame depth have the Court a little larger, he may gain two feet upon the depth of the Hall.</p>
+               <p>For the heights, the Floor of the Building ſhall be two feet higher then the level of the Cauſey with<g ref="char:EOLhyphen"/>out, and for to aſcend thereto you may have divers faſhions. The firſt by taking one ſtep or two upon the ſtreet, and the reſt in the thickneſs of the wall, if it may be ſuffered you; if not, you ſhall take all the ſteps within the Paſſage, even as they are pointed upon the Platform. And to deſcend into the Court, which ſhall have the ſame level with that without (the running down of the water excepted) they ſhall take two ſteps within the Paſſage of the Stair-caſe, and two within the Court, that there may be allowed a convenient opening for the Court-gate.</p>
+               <p>The firſt ſtory ſhall have in height thirteen feet under the Joyſts, and thirteen feet nine inches, contain<g ref="char:EOLhyphen"/>ing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty nine ſteps of five in<g ref="char:EOLhyphen"/>ches eight parts high apiece.</p>
+               <p>The ſecond ſtory ſhall have in height twelve feet nine inches, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty ſix ſteps, which ſhall have five feet and one part in height apiece.</p>
+               <p>The third ſtory ſhall have ten feet nine inches in height, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty five ſteps of five inches apiece.</p>
+               <p>Above may be Granaries or Chambers in Garrets, from eight to nine feet under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the ſecond Diviſion of the eighth Place,</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond ſtory conſiſteth in two Chambers upon the fore part, and a Wardrobe or Cloſet be<g ref="char:EOLhyphen"/>tween the two. The firſt Chamber ſhall have twenty five feet of breadth upon twenty of depth; the Wardrobe or Cloſet ten feet of breadth upon fifteen and an half of depth, by rea<g ref="char:EOLhyphen"/>ſon of a Paſſage of four feet behind the ſaid Cloſet. The Chamber ſhall have fourteen feet of breadth over the whole depth, and on the back part there ſhall be two Chambers, and the Stairs be<g ref="char:EOLhyphen"/>tween both; the firſt of twenty five feet of breadth upon ſeventeen of depth, and the Stairs nine feet broad: the other Chamber or Cloſet thirteen feet and an half broad upon the whole ſaid depth of ſeven<g ref="char:EOLhyphen"/>teen feet. At the end of the firſt Chamber over the Buttery ſhall be a Wardrobe over the whole depth of the Court.</p>
+               <p>All the parts of theſe ſtories are ſo free from encumbrance, that one may uſe them even as they would deſire.</p>
+               <p>You have above the plane of the ſecond ſtory the Elevation of the Front that looketh towards the Court, which, becauſe it hath not any ſeparated Meaſures, hath no need of any particular declaration.</p>
+            </div>
+            <div type="division">
+               <pb n="12" facs="tcp:55243:22"/>
+               <head>The third Diviſion of the eighth Place, of the ſame breadth of fifty feet upon fifty eight of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Diviſion conſiſteth likewiſe in a Body of a Building double, having of depth within the work thirty ſix feet upon the whole breadth of fifty, which ſhall be divi<g ref="char:EOLhyphen"/>ded into an Hall, Stable, and Kitchen; the which Stable and Kitchen ſhall be ſeparated from the Hall by a Paſſage and Stairs. The Hall ſhall have twenty feet of breadth over the whole depth, the Entry and the Stairs nine feet of breadth, the Stable eighteen feet of breadth upon fifteen and an half of depth, the Kitchen ſhall have the ſame breadth of eighteen feet upon twenty of depth, adjoyning unto which ſhall be a Buttery of nine feet in breadth, and fourteen of depth. Behind the But<g ref="char:EOLhyphen"/>tery ſhall be a Privy. The Court ſhall have forty feet of breadth upon twenty of depth. The Paſſage ſhall have from the Entry unto the foot of the Stairs fifteen feet and an half.</p>
+               <p>The deſcent of the Cellar ſhall be taken down right under the turning of the Stairs.</p>
+               <p>As for the Heighths, the floor of the Building ſhall be two feet higher then the level of the ſtreet with<g ref="char:EOLhyphen"/>out; and for to aſcend thither you may take one ſtep or two upon the ſtreet, and the reſt in the thickneſs of the wall, if you may be ſuffered to make ſteps in the ſtreet; if not, you ſhall make them all within the Paſſage, as they are pointed out within the Platform: and to go down into the Court you ſhall take two ſteps within the Paſſage of the Stairs, and two within the Court, thereby to allow to the gate of the Court its Paſſage.</p>
+               <p>The firſt ſtory ſhall be thirteen feet high from the Floor to under the Joyſts, and thirteen feet nine inches, comprehending the thickneſs of the Joyſts and Plancher, unto which you ſhall aſcend by thirty one ſteps of five inches and eight parts apiece.</p>
+               <p>The ſecond ſtory ſhall have twelve feet nine inches, comprehending the thickneſs of the Joyſts and Plancher, to which you ſhall aſcend by twenty four ſteps, of ſix inches and four parts and half each of them.</p>
+               <p>The third ſtory ſhall have ten feet nine inches of height, comprehending the thickneſs of the Joyſts and Plancher, to the which you ſhall aſcend by the ſame quantity of twenty four ſteps, of five inches four parts and an half each of them.</p>
+               <p>Above may be Granaries or Chambers in Garrets, from ſeven to eight feet high under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the third Diviſion of the eighth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond ſtory conſiſteth in two Chambers, each being accompanied with a Wardrobe and Cloſet. The firſt Chamber on the back part, and upon the Hall ſhall have twenty feet in ſquare, and the reſt of the depth (which is fifteen feet and an half) ſhall be for the Wardrobe upon the ſame breadth. The Cloſet ſhall be above the Paſſage, and ſhall have nine feet of breadth upon twelve of depth. The ſecond Chamber upon the Kitchen, having eighteen feet in breadth, and of the ſame depth with the foregoing of twenty feet: and the Cloſet ſhall be upon the back part over the Larder, upon the whole depth of the Court, which is twenty feet. As for the Wardrobe, it ſhall contain the ſame ſpace with the Stable, upon the which it is placed.</p>
+               <p>Above the level of the ſecond ſtory is the Elevation that looketh towards the Court.</p>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>The Front to the ſtreet,</p>
+                  <p>The Groundplot of the first Story,</p>
+               </figure>
+               <pb facs="tcp:55243:23"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>The Groundplot of the ſecond ſtory,</head>
+               </figure>
+               <pb facs="tcp:55243:24"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>the Front to the ſtreet</p>
+                  <p>The Groundplot of the first ſtorie</p>
+               </figure>
+               <pb facs="tcp:55243:25"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>to the Court,</p>
+                  <p>The ſecond ſtory.</p>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:26"/>
+               <pb n="13" facs="tcp:55243:26"/>
+               <head>The Diviſion of the nineth Place, of the breadth of fifty ſeven feet, upon one hundred and twenty of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Ground plot may be divided in five ſeveral manners, each whereof hath its particular Deſign. The firſt containeth two Bodies of a Building, the firſt on the Front, the ſecond on the Rear. That on the Front hath twenty feet in breadth, its breadth conſiſting in a Kitchen twenty feet broad, a Buttery eleven, a Paſſage for the Coach nine, and a Stable fifteen. At the end of the Kitchen there is a Stair-caſe thirteen feet and an half in breadth, upon fifteen of depth. Behind the Stairs there is a Gallery twenty ſix feet deep. At one of the corners of the ſtairs ſhall be the Privy, or at the place marked <hi>(A)</hi> The Court ſhall have twenty four feet in ſquare.</p>
+               <p>The Body of the Building behind, which is the principal, ſhall have twen<g ref="char:EOLhyphen"/>ty two feet in depth, upon the ſame breadth with that on the Front, and con<g ref="char:EOLhyphen"/>fiſteth in a Hall thirty feet broad, a Stair-caſe ten, and a Chamber fifteen. The Garden ſhall be thirty feet deep, upon the whole breadth of fifty ſe<g ref="char:EOLhyphen"/>ven feet.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the first Diviſion of the nineth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond ſtory conſiſteth in a Wardrobe placed upon the Kitchen, having fifteen feet in breadth, upon fifteen and an half of depth, by reaſon of a Paſſage of four feet between that and the ſtair-caſe: one Chamber of twenty five feet broad, upon the whole depth of twenty; and another Chamber of fifteen feet in depth. Joyning to the Paſſage above<g ref="char:EOLhyphen"/>mentioned is the ſtair-caſe, followed by a Cloſet of twenty ſix feet in depth, which joyneth it to the principal Body of the Building, which conſiſteth in a Chamber and Wardrobe above the Hall, the Chamber having nineteen feet in breadth, and the VVardrobe ten and an half. Joyning to which is the ſtair-caſe mentioned in the ſtory below, and next to that a Chamber of fifteen feet, the whole upon the depth of twenty two. The Privy ſhall be taken with<g ref="char:EOLhyphen"/>in the thickneſs of the wall divided from the ſtairs.</p>
+            </div>
+            <div type="division">
+               <pb n="14" facs="tcp:55243:27"/>
+               <head>The Elevation of the body of the building on the fore part, on the ſide of the Court of the nineth Place, divided accord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to the firſt manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Body of the Building on the fore part, except the Stable and the Paſſage, ſhall be elevated above the Floor of the level of the Court two feet, to which they ſhall aſcend by four ſteps taken in the Court at the place of the Stair-caſe.</p>
+               <p>The height of the firſt ſtory from the Floor ſhall be thirteen feet nine inches, containing the the thickneſs of the Joyſts and Plancher, to which height they ſhall aſcend by twenty five ſteps, of ſix inches and ſeven parts high apiece.</p>
+               <p>The ſecond ſtory ſhall have of height twelve feet nine inches, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty five ſteps, of ſix inches one part apiece.</p>
+               <p>The third ſtory ſhall have in height eleven feet nine inches, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty five ſteps, of five inches eight parts of height each of them.</p>
+               <p>And above may be Granaries or Chambers in Garrets, from eight to nine feet high under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <head>The Elevation of the principal body of the building on the ſide of the Court of the nineth Place, divided according to the firſt manner, which body of the building is that on the back part.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He body of the building on the back part ſhall be elevated above the level of the Court two feet, to which they ſhall aſcend by four ſteps taken in the ſaid Court; and to deſcend from the Floor of the Building to the Garden, they ſhall take two ſteps in the Paſſage of the Stair-caſe, and two within the Garden, thereby to allow to the Gate of the ſaid Garden a coming forth convenient.</p>
+               <p>The height of the firſt ſtory from the Floor ſhall be of thirteen feet nine inches, containing the thick<g ref="char:EOLhyphen"/>neſs of the Joyſts and Plancher, to which height they ſhall aſcend by twenty eight ſteps, divided in halves upon the two turnings of the Stair-caſe, which ſteps ſhall have five inches eleven parts of height each of them.</p>
+               <p>The ſecond ſtory ſhall have of height twelve feet nine inches, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty eight ſteps, of five inches and an half each of them.</p>
+               <p>The third ſtory ſhall have in height eleven feet nine inches, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty eight ſteps, of five inches apiece.</p>
+               <p>And he which would keep in the ſecond and third ſtory the ſame height of ſteps as in the firſt, which are five inches and eleven parts, he ſhould find twenty ſix thereof in the ſecond ſtory, and twenty four in the third; wich change one may alſo make throughout all the other Elevations.</p>
+               <p>Above ſhall be Granaries or Chambers in Garrets, from eight to nine feet high under the Joyſts.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Ground plot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:28"/>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groundplot of the ſecond Story,</head>
+               </figure>
+               <pb facs="tcp:55243:29"/>
+               <figure>
+                  <figDesc>front elevation of building</figDesc>
+               </figure>
+               <pb facs="tcp:55243:30"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>next the Court.</head>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:31"/>
+               <pb n="15" facs="tcp:55243:31"/>
+               <head>The ſecond Diviſion of the nineth Place, of the ſame breadth of fifty ſeven feet, upon one hundred and twenty of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Diviſion of the ſpace above mentioned conſiſteth in two bodies of a building, the one on the fore part, the other on the back part; the firſt ha<g ref="char:EOLhyphen"/>ving twenty feet of depth; whereof the breadth conſiſteth in a Stable, Coach-Paſſage, and a Kitchen. The ſtable with a double rank hath of breadth twenty three feet and an half, the Paſſage for the Coach nine, and the Kitchen twenty two and an half; on the ſide of which is the Buttery of ten feet broad upon eleven deep, at one of the corners of which ſhall be the Privy. Next to the Buttery is the ſtair-caſe, upon the ſame breadth of ten feet, and twenty four of depth. The Court ſhall have thirty four feet in breadth, upon the whole depth of the Stairs and the Buttery, which make thirty ſix feet, therein containing the thickneſs of the Wall between the Buttery and the Stairs. The reſt of the breadth is employed in a ſtair-caſe joyning to the ſtable, and a gallery at the end: the ſtair-caſe hath ten feet in ſquare and the gallery twen<g ref="char:EOLhyphen"/>ty five in depth, upon the like breadth, within which one may put the Coaches, and behind the Coaches at the place marked <hi>(A)</hi> may be ſet the Privy.</p>
+               <p>The bodie of the building behind, which is the principal, which ſhall have in depth twen<g ref="char:EOLhyphen"/>tie two feet, upon the whole breadth of fiftie ſeven; it conſiſteth in an Hall thirtie ſix feet broad, and a Chamber nineteen and an half. At the two corners of this bodie of the build<g ref="char:EOLhyphen"/>ing may be made, by the outſide within the Garden, two ſmall Advances for Privies, which ſhall be raiſed onely to the ſecond ſtorie. The Garden ſhall be thirty ſix feet deep upon the whole breadth, into which they ſhall deſcend by ſtone-ſteps.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the ſecond Diviſion of the nineth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Story conſiſteth in two Chambers, in the middeſt of which is a Ward<g ref="char:EOLhyphen"/>robe; the firſt is placed over the Kitchen, being twenty three feet in breadth, the Wardrobe twelve, upon fifteen and an half deep. In reſpect of the Paſſage it ſhall be for to ſerve for one of the two Chambers, and the ſecond Chamber over the ſtable ſhall have twenty feet in ſquare. Joyning unto the firſt Chamber, and above the but<g ref="char:EOLhyphen"/>tery, ſhall be a Portal of the ſame bigneſs and ſhape that the buttery is; and on the other ſide of the Court ſhall be a Gallery, between the ſtairs and the principal body of the building, which ſhall have twenty five feet in depth, and ſhall conſiſt in two Chambers and a Ward<g ref="char:EOLhyphen"/>robe. The firſt joyning to the Gallery ſhall have nineteen feet and an half in breadth, the ſecond twenty three, and the Wardrobe thirteen, upon ſeventeen feet and an half in depth. In reſpect of the Paſſage of four feet, at the two corners of the body of the building, within the garden, ſhall be made two Advances for the Privies.</p>
+            </div>
+            <div type="division">
+               <pb n="16" facs="tcp:55243:32"/>
+               <head>The Elevation of the body of the Building on the Front, which looketh to the ſtreet, of the Ninth Place, diſtributed according to the ſecond Manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Body of the Building on the Front hath the ſame levell with that of the Court. It ſhall have of height from the floor or level unto under the joyſts nineteen feet, the which height ſhall be divided a<g ref="char:EOLhyphen"/>bove the Kitchen and the Stable, by an Enter-joyſt or Girder, which ſhall have ten feet under the joyſts, from the floor, which ſhall be with the thickneſs of the joyſts and plancher, ten feet nine inches at the Enter-joyſt or Girder, above the Stable, they ſhall aſcend by fifeeen ſteps, which ſhall have eight inches, and ſeven parts of height each of them. The reſt of the height from the plancher of the Enter-Girder, unto that of the firſt ſtory under the joyſts, ſhall be eight feet three inches, and con<g ref="char:EOLhyphen"/>taining the thickneſs of the joyſts and plancher nine feet, to the which height they ſhall aſcend by thirteen ſteps, which ſhall have of height eight inches and four parts each of them. To the Enter-joyſt or Girder above the Kitchen, they ſhall aſcend by three ſteps, which ſhall be in the Court of ſix inches each of them. For to come to the floor of the bottom of the principal Stair-caſe, and to the turning thereof on the ſide of the Court, ſhall be taken ſeven ſteps of ſix inches apiece. For to come upon the bottom of the Stair-caſe joyning to the Hall, and within the other turning againſt the Wall, ſhall be taken fifteen ſteps, of five inches eleven parts apiece, which ſhall aſcend to the height of ſeven feet four inches and an half; which being added with the five feet, unto which the ſteps of the Court do aſcend, and of the other turning, there will be twelve feet four inches and an half. But to aſcend to the Enter-joyſt we had but ten feet nine inches; wherefore they muſt deſcend unto the ſaid Enter-joyſt two feet four inches and three parts, by the means of four ſteps, which ſhall be taken above the Buttery.</p>
+               <p>The Floor of the body of the Building behinde ſhall have five feet above the level of the Court, by reaſon of Cellars or neceſſary Rooms which ſhall be underneath: and to this height they ſhall aſcend by the three ſteps mentioned above in the Court, and by the ſeven of the turning of the ſtair-caſe, as it hath been ſaid hereabove.</p>
+               <p>The firſt ſtory of the body of the Building behind, ſhall have from the Floor to under the Joyſts, fourteen feet, and con<g ref="char:EOLhyphen"/>taining the thickneſs of the Joyſts and the Plancher, fourteen feet nine inches: to the which they ſhall aſcend by thirty ſteps, having five inches eleven parts of height, each of them: the which ſhall be divided by the half upon each Turning, and in this Manner the chief ſtair-caſe ſhall afford communication to the principal Body of the Building, and to the Enter-Joyſt of that on the fore-part. But it ſhall not afford it to the firſt ſtory on the fore-part, and nevertheleſs the ſmaller ſtairs doth afford it to the one and the other, foraſmuch as the two bodies of the Building before and behind are of one levell.</p>
+               <p>But if one would have Communication of the one body of the Building with the other, as well by great ſtairs, as by the ſmall, from the levell of the Hall they ſhould go up to the ſecond ſtory, by twenty five ſteps, adding thereto five ſteps upon each Turning, and each of them ſhould have ſeven inches and one part of height; and for the ſecond ſtory which hath twelve feet nine inches, containing the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by twenty five ſteps, of ſix inches and one part of height, each of them. But in this manner the great ſtair-caſe ſhall not have any communication with the Enter-Joyſt above the Kitchen, the which hath not any alſo by the leſſer ſtairs, and by this means the ſaid Enter-Joyſt would remain wholly unuſeful: therefore to make it uſeful we muſt take its communication by the leſſer ſtairs, by the means of the Enter-Joyſt above the Stable, by paſſing over the Gate, the which hath thirteen feet of height, and with the thickneſs of the Joyſt and Plancher, thirteen feet nine inches, and by conſequence three feet above the floor of the Enter-Joyſt: we muſt therefore uſe ſteps coming to this height in the one and the other Enter-Joyſt the one to aſcend, and the other to deſcend.</p>
+               <p>The ſecond ſtory, ſhall have of height twelve feet, under the Joyſts, and containing the thickneſs of the Joyſt and Plan<g ref="char:EOLhyphen"/>cher, twelve feet nine inches, to the which they ſhall aſcend by twenty two ſteps in two Revolutions, and therefore every ſtep ſhall have ſeven inches and one part.</p>
+               <p>The third ſtory ſhall be in Garrets, and ſhall have of height containing the thickneſs of the Joyſts and Plancher, ten feet nine inches, to the which they ſhall aſcend by one Revolution, by ſixteen ſteps of eight inches four parts each of them.</p>
+            </div>
+            <div type="division">
+               <head>The Elevation of the body of the building behinde, which looketh towards the Court of the nineth Place, divided according to the ſecond Manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Body of the Building behinde ſhall have its Cellars underneath the Building, which ſhall have nine feet un<g ref="char:EOLhyphen"/>der the Joyſts, or under the Vault, whereof four feet nine inches ſhall be above the levell of the Court, and they ſhall deſcend thereinto by nine ſteps of ſix inches and four parts each of them, by reaſon of their ſteps which ſhall be aſcended from the Court. The other four feet three inches above, will make with the thick<g ref="char:EOLhyphen"/>neſs of the Joyſts and Plancher five feet, the which they ſhall aſcend by ten ſteps, whereof three ſhall be in the Court, and the other ſeven in the Turning of the ſtair-caſe, which is upon the Court, as hath been ſaid here above.</p>
+               <p>The firſt ſtory from the floor of the Hall unto under the Joyſts, ſhall have fourteen feet, and containing the thickneſs of the Joyſts and Plancher fourteen feet nine inches, to the which they ſhall aſcend by thirty ſteps, having five inches and one part of height each of them: the which ſhall be diſtributed by the half upon each Turning, as hath been ſaid in the e<g ref="char:EOLhyphen"/>levation of the Body of the Building before.</p>
+               <p>The ſecond ſtory ſhall have of height twelve feet under the Joyſts, and containing the thickneſs of the Joyſts and Plan<g ref="char:EOLhyphen"/>cher, twelve feet nine inches, to the which they ſhall aſcend by twenty ſix ſteps of five inches, and eleven Parts each of height.</p>
+               <p>The third ſtory ſhall have of height ten feet nine inches, containg the thickneſs of the joyſts and Plancher, to the which ſtory we ſhall aſcend by ſteps equal in height to thoſe of the ſecond ſtory of five inches eleven Parts, and thereby thoſe ſhall be twenty two thereof.</p>
+               <p>Above may be made Granaries.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groudplot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:33"/>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groundplot of the ſecond Story,</head>
+               </figure>
+               <pb facs="tcp:55243:34"/>
+               <figure>
+                  <figDesc>front elevation</figDesc>
+                  <head>The Front to the Street,</head>
+               </figure>
+               <pb facs="tcp:55243:35"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>The Vpright to the Court,</head>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:36"/>
+               <pb n="17" facs="tcp:55243:36"/>
+               <head>The third Diviſion of the nineth Place, of the ſame breadth of fifty ſeven feet, upon one hundred and twenty of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He third Diviſion of the ſame ſpace of fifty ſeven feet in breadth, upon one hundred and twenty in depth, conſiſteth in two Bodies of a Building, the one upon the fore part, the other on the hinder; the firſt having twenty feet in depth upon the whole breadth, the which is divided into a Stable of nineteen feet, a Paſſage for the Coach of nine feet, a Stair-caſe of nine feet, and a Kitchen of ſeventeen feet, at the end of which is a Buttery nine feet deep, upon twelve and an half broad, and a Paſſage four feet broad to go into the Kitchen. And theſe two breadths making ſeventeen feet, do cauſe that of a Chamber next to the ſaid Buttery, the which hath fifteen feet and an half in depth; and at the end of that is another Stair-caſe, the breadth of which ſhall have its ſituation according to the depth of the building, conſidering it in its whole extent: and there<g ref="char:EOLhyphen"/>fore we ſhall uſe this word of Depth, which ſhall be of ten feet upon ſeventeen of breadth. The Court ſhall have the reſt of the breadth, which is thirty eight feet and an half, upon thirty ſix deep.</p>
+               <p>The Body of the Building behind, which is the principal, ſhall have twenty two feet deep upon the whole breadth. It conſiſteth in a Hall of thirty four feet, and a Chamber of twenty two in ſquare. At the corners as well of the Hall as of the Chamber, there ſhall advance into the Garden two Cloſets of eight feet broad upon ten deep. The Garden ſhall be thirty ſix feet deep upon the whole breadth, to which they ſhall deſcend by four ſteps.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the third Diviſion of the nineth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Story conſiſteth in a Chamber above the Stable, having in breadth nineteen feet up<g ref="char:EOLhyphen"/>on the whole depth of twenty feet, a Wardrobe of nine feet broad upon fifteen and an half deep; in regard of a Paſſage of four feet which is behind, a Stair-caſe of nine feet broad, and a Chamber of ſeventeen; on the ſide of which is a Wardrobe of the ſame breadth upon nine feet deep, and a Chamber of ſixteen feet likewiſe upon the ſaid breadth of ſeventeen. At the end of the which Chamber the Stair-caſe is placed, and then the body of the principal building, which conſiſteth in two Chambers, each of them adorned with its Cloſet, and the Wardrobe in the middeſt.</p>
+               <p>The firſt joyning to the Stairs ſhall have eighteen feet and an half in breadth, upon ſeventeen and an half deep. The Wardrobe ſhall have fifteen feet in breadth, upon ſeventeen and an half deep; and be<g ref="char:EOLhyphen"/>hind the ſaid Chamber and Wardrobe ſhall be a Paſſage of four feet for their diſengagement: the other Chamber, which is the principal, ſhall have twenty two feet in ſquare; and at the corner of each of the Chambers ſhall be put forth within the Garden a Cloſet of eight feet broad upon ten deep.</p>
+            </div>
+            <div type="division">
+               <pb n="18" facs="tcp:55243:37"/>
+               <head>The Elevation of the Front, to the ſtreet of the body of the Building of the Ninth Place, diſtributed according to the third Manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He bodie of the Building on the Front, excepting the ſtair caſe, hath the ſame levell with that of the Court, and ſhall have of height from the floor, fifteen feet, and with the thickneſs of the Plancher, fifteen feet nine inches; the floor of the ſtair-caſe ſhall have one foot above the ſaid levell, to the which they ſhall aſcend by two ſteps within the Court: there will remain fourteen feet nine inches, whither they ſhall aſcend by twentie eight ſteps of ſix inches, four Parts each of them.</p>
+               <p>The ſecond ſtorie ſhall have twelve feet, containing the thickneſs of the Joyſts and Plan<g ref="char:EOLhyphen"/>cher, twelve feet nine inches, to the which they ſhall aſcend by twentie eight ſteps, of five inches and an half each of them.</p>
+               <p>The third ſtorie, which conſiſteth in Chambers in Garrets, ſhall have ten feet nine inches, containing the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by ſteps of equal height with the foregoing, to wit, of five inches and an half, and therefore there will be twentie four of them.</p>
+            </div>
+            <div type="division">
+               <head>The Elevation of the body of the principal building, which is on the back part, and faceth the Court of the nineth Place, accord<g ref="char:EOLhyphen"/>ing to the third Diviſion.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Floor of the body of the building on the back part, together with the Chamber joyning to the ſtairs, is raiſed two feet above the le<g ref="char:EOLhyphen"/>vel of the Court; the which ſhall aſcend by four ſteps being in the ſaid Court.</p>
+               <p>The firſt ſtory from the floor of the Hall ſhall have thirteen feet under the Joyſts, and with the thickneſs of the Joyſts and Plancher thirteen feet nine in<g ref="char:EOLhyphen"/>ches; to which they ſhall aſcend by twenty ſeven ſteps, of ſix inches and one part apiece.</p>
+               <p>The ſecond ſtory ſhall have twelve feet nine inches, containing the thick<g ref="char:EOLhyphen"/>neſs of the Joyſts and Plancher; to which they ſhall aſcend by twenty ſeven ſteps, which ſhall have five inches eight parts apiece.</p>
+               <p>The third ſtory ſhall have eleven feet nine inches, containing the thick<g ref="char:EOLhyphen"/>neſs of the Joyſts and Plancher; to which they ſhall aſcend by ſteps of equal height to thoſe of the ſecond ſtory of five inches eight parts, and therefore there ſhall be twenty five of them.</p>
+               <p>Above the third ſtory ſhall be a Granary or Chamber in the Garret, from nine to ten feet under the Joyſts of elevation, if one will have it.</p>
+               <p>We muſt alſo obſerve, that although it ſeemeth that we make the firſt ſto<g ref="char:EOLhyphen"/>ries of the body of the building on the fore part more elevated then needful; nevertheleſs that is not done without reaſon, for it is to equal the two Floors of the two bodies of the building, to the end that one may go evenly from the one to the other, and that he be not forced to aſcend nor deſcend.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Ground-plot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:38"/>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Ground-plot of y<hi rend="sup">e</hi> ſecond Story,</head>
+               </figure>
+               <pb facs="tcp:55243:39"/>
+               <figure>
+                  <figDesc>front elevation</figDesc>
+                  <head>The Front to the Street,</head>
+               </figure>
+               <pb facs="tcp:55243:40"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>The Vpright of the Cheife Building, next the Court,</head>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:41"/>
+               <pb n="19" facs="tcp:55243:41"/>
+               <head>The fourth Diviſion of the nineth Place, of the ſame breadth of fifty ſeven feet, upon one hundred and twenty of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His fourth Diviſion of the ſame ſpace of fiftie ſeven feet in bredth, upon ſix ſcore of depth, conſiſteth likewiſe in two bodies of a Building, the one on the front, the other on the Rear, the firſt having twenty two feet of depth upon the whole bredth, the which is divided into a ſtable, with a double Rank, of twenty two feet and an half; a Paſſage for the Coach of nine feet, a Kitchen of twentie three feet and an half; on the ſide of which is a Butterie of fourteen feet of bredth, upon ſeven<g ref="char:EOLhyphen"/>teen of depth; and according to the depth of the ſaid Butterie, is the ſtair-caſe of eighteen feet of depth, upon the ſame bredth of fourteen feet. This ſtair-caſe hath four Nuels or Spindles adorned with Balliſters or little pillars, and muſt have about three feet emptie with<g ref="char:EOLhyphen"/>in the midſt, for to afford it the more pleaſantneſs. The Court muſt have thirty ſix feet of depth, upon fourtie one and an half of bredth, and from that they muſt aſcend by four ſteps to the bottom of the ſtair-caſe.</p>
+               <p>The body of the building on the Rear, which is the principal, muſt have the ſame depth of twentie two Feet, upon the ſame bredth of fiftie ſeven Feet, and conſiſteth in an Hall of thir<g ref="char:EOLhyphen"/>tie ſix Feet of bredth, and in a Chamber of nineteen Feet and an half, upon ſeventeen Feet and an half of depth, by reaſon of a paſſage of Four Feet, which is between the ſaid Cham<g ref="char:EOLhyphen"/>ber and the ſtair caſe; and within a corner of the paſſage ſhall be the privy. At the two corners of the Garden, joyning to the Hall and the Chamber, there muſt come forth two Cloſets of ten Feet of bredth, and there muſt be a deſcent at your choice, either from the Hall or the Chamber to the Garden, of four ſteps.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the fourth Diviſion of the nineth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Story conſiſteth in two Chambers, in the midſt of which is a Wardrobe: the firſt over the Stable ſhall have of bredth twenty two feet and an half, upon twenty two of depth: the Wardrobe twelve feet and an half, upon ſeventeen and an half of depth, by reaſon of a paſſage of four feet: behinde that, another Chamber of twenty feet of bredth upon the ſame depth of ſeventeen feet and an half, and above the Buttery ſhall be a Portal of the bredth and depth of the ſaid Buttery.</p>
+               <p>The body of the Building on the Rear, conſiſteth in two Chambers, and one Ward-robe: the firſt Chamber near unto the ſtair-caſe, having the ſame bredth and depth with that of the Story below: the ſecond joyning to the firſt above the Hall, having twenty two feet in ſquare, and the Wardrobe fourteen feet and an half of bredth, upon the ſame depth of twenty two feet, at the two corners of the Chamber, and of the Wardrobe, ſhall be likewiſe two Cloſets, jetting forth over the Garden<g ref="char:punc">▪</g> as thoſe of the firſt Story.</p>
+            </div>
+            <div type="division">
+               <pb n="20" facs="tcp:55243:42"/>
+               <head>The Elevation of the Front to the Street, of the body of the building of the nineth Place, divided according to the fourth Manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He body of the building on the Front, hath the ſame levell, with that of the Court, and ſhall have height from the Floor, fifteen feet and an half, and with the thickneſs of the Joyſts and Plancher, ſixteen feet three inches, to the which they ſhall aſcend by thirty one ſteps, to wit, four in the Court, which ſhall aſcend two feet, and twenty ſeven in the ſtair-caſe, which ſhall have ſix inches and four parts each of them.</p>
+               <p>The ſecond ſtory ſhall have twelve feet under the Joyſts, and twelve feet nine inches, containing the thickneſs of the Joyſts and Plancher; to the which they ſhall aſcend by twenty ſeven ſteps of five inches, eight parts each of them.</p>
+               <p>The third ſtory ſhall have ten feet and an half under the Joyſts, and eleven feet three inches, containing the thickneſs of the Joyſts and Plancher; to the which they ſhall aſcend by twenty four ſteps of equal height with thoſe of the ſecond ſtory, which are five inches eight parts.</p>
+               <p>And above ſhall be made Chambers in the Garrets, about nine feet of height under the Joyſts, or elſe Garners, if one will have it.</p>
+            </div>
+            <div type="division">
+               <head>The Elevation of the body of the principal building, which is on the back part, that looketh upon the Court of the nineth Place, according to the fourth Diſtribution.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He floor of the body of the Principal building, together with the bottom of the ſtair-caſe, ſhall be elevated two feet above the levell of the Court, to the which they ſhall aſcend by the four ſteps, which we have ſaid to be in the Court.</p>
+               <p>The firſt ſtorie ſhall have thirteen feet and an half from the floor under the Joyſts, and fourteen feet three inches, containing the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by twenty ſeven ſteps of ſix inches four parts each of them.</p>
+               <p>The ſecond ſtory ſhall have twelve feet under the Joyſts, and twelve feet nine inches, con<g ref="char:EOLhyphen"/>taining the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by twenty ſeven ſteps, of five inches eight parts each of them.</p>
+               <p>The third ſtory ſhall have ten feet and an half under the Joyſts, and eleven feet three inches, containing the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by twentie four ſteps of equal height of five inches eight parts.</p>
+               <p>And above may be made Garners or Chambers in Garrets, of nine feet under the Joyſts of height.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Ground-plot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:43"/>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Ground-plot of the ſecond Story,</head>
+               </figure>
+               <pb facs="tcp:55243:44"/>
+               <figure>
+                  <figDesc>front elevation</figDesc>
+                  <head>The Front of the Building to y<hi rend="sup">e</hi> Street,</head>
+               </figure>
+               <pb facs="tcp:55243:45"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>The Vpright of the Cheife Building next the Court,</head>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:46"/>
+               <pb n="21" facs="tcp:55243:46"/>
+               <head>The fifth Diviſion of the nineth Place, of the ſame breadth of fifty ſeven feet, upon one hundred and twenty of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His fifth Diviſion of the nineth Place of fifty ſeven feet in breadth, upon one hundred and twenty in depth, conſiſteth likewiſe in two bodies of a build<g ref="char:EOLhyphen"/>ing, the firſt on the Front, of twenty feet deep upon the whole breadth, the which is divided into a Stable of thirteen feet broad, in the corner of which is a Coach-houſe, behind which is the place for a bed. On the ſide of the Stable is the Gate for the Coach of nine feet broad, and a Kitchen of twenty three feet: at one of the corners of which, half within and half without the Work, is the ſtair-caſe, in the ſhape of a Vice or winding ſtair, having ten feet in ſquare, and at one of the cor<g ref="char:EOLhyphen"/>ners of the ſaid ſtairs ſhall be the Privy. The Court ſhall have thirty nine feet in depth upon the whole breadth, and from the Court they ſhall aſcend by ſix ſteps upon an open Gallery, which ſhall be ſeparated into two by the ſtair-caſe ſituate in the middeſt, which ſhall be ſix<g ref="char:EOLhyphen"/>teen feet in ſquare, and in the middeſt of it is the Paſſage to enter into the Hall. Each part of the open galleries ſhall have nineteen feet broad upon ſeventeen deep.</p>
+               <p>The body of the building behind, joyning to the ſaid open gallery, ſhall have twenty two feet deep, and conſiſteth in an Hall and a Chamber. The Hall ſhall have thirty ſix feet broad, and the Chamber twenty. And within the garden, at the two corners as well of the Hall as the Chamber, ſhall be advanced two Cloſets of twelve feet deep upon nine of breadth. The garden ſhall have the reſt of the depth upon the whole breadth.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the fifth Diviſion of the nineth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond Story of the body of the building in the Front conſiſteth in two Cham<g ref="char:EOLhyphen"/>bers, a Wardrobe, and a Cloſet. The firſt over the Kitchen having the ſame breadth of twenty three feet upon fifteen and an half deep, by reaſon of the Stair-caſe and Paſſage. The ſecond Chamber ſhall be twenty two feet broad, upon twen<g ref="char:EOLhyphen"/>ty of depth. The Wardrobe ſhall be ten feet and an half broad, and the Cloſet ten feet in ſquare.</p>
+               <p>The body of the building behind conſiſteth in two Chambers and a Wardrobe in the middeſt: the firſt being over the Hall ſhall have twenty two feet in ſquare, the Wardrobe thirteen and an half of breadth upon ſeventeen and an half deep, by reaſon of the Paſſage of four feet, which is before. The other Chamber ſhall be twenty feet broad upon the whole depth. Each Chamber ſhall have its Cloſet jetting out upon the garden, as hath been ſaid.</p>
+            </div>
+            <div type="division">
+               <pb n="22" facs="tcp:55243:47"/>
+               <head>The Elevation of the Front towards the ſtreet of the body of the Building, on the fore ſide of the nineth Place, divided according to the fifth Manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Body of the Building in the Front hath the ſame ſurface or ſuperficies with that of the Court, and ſhall have in height from the Floor under the Joyſts twelve feet, and twelve feet nine inches comprehending the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty five ſteps, of ſix inches one part apiece, which will take one revolution or turning wholly, and a quarter of another.</p>
+               <p>The ſecond Story ſhall have eleven feet under the Joyſts, and eleven feet nine inches comprehending the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty five ſteps of five inches eight parts apiece.</p>
+               <p>The third Story ſhall have the like height and the like diviſion of Steps.</p>
+               <p>Above may be Granaries or Chambers in Garrets, like as aforeſaid.</p>
+            </div>
+            <div type="division">
+               <head>The Elevation of the <g ref="char:V">Ʋ</g>pright to the Court to the body of the building behind, of the nineth Place, divided according to the nineth manner.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He open Gallery ſhall be raiſed above the Level of the Court three feet, to which they ſhall aſcend from the ſaid Court by ſix ſteps of ſix inches apiece.</p>
+               <p>The Floor of the Body of the Building ſhall have the ſame Level with the open Gallery, and ſhall have in height fourteen feet under the Joyſts, and with the thickneſs of the Joyſts and Plancher fourteen feet nine inches, to which they ſhall aſcend by twenty eight ſteps of ſix inches four parts apiece.</p>
+               <p>The ſecond ſhall have of height thirteen feet under the Joyſts, and thirteen feet nine inches containing the thickneſs of the Joyſts and Plancher, to the which they ſhall aſcend by an equal quantity of twenty eight ſteps, which therefore muſt have five inches eleven parts of height each of them.</p>
+               <p>The third ſtory ſhall have in height ten feet under the joyſts, and ten feet nine inches containing the thickneſs of the joyſts and plancher, to which they may aſcend by twenty four ſteps of five inches five parts high apiece.</p>
+               <p>Above may be Granaries.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Ground-plot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:48"/>
+               <figure>
+                  <figDesc>front elevation</figDesc>
+                  <head>The Front to the Street,</head>
+               </figure>
+               <pb facs="tcp:55243:49"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>The Front of the Cheife Building towards the Court,</head>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:50"/>
+               <pb n="23" facs="tcp:55243:50"/>
+               <head>The Diviſion of the ſecond Place, having ſeventy two feet of breadth, upon ſeventy four of depth.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He depth of this Ground-plot is divided into a Court on the Front, and a bo<g ref="char:EOLhyphen"/>dy of a building and a garden on the hinder part. At the two ſides of the Court and of the body of the building ſhall be built a Stable with a Coach-houſe, and on the other ſide a Kitchen with a Buttery: each of them muſt have fifteen feet broad; and the depth of the Stable and of the Kitchen muſt be nineteen feet, the Coach-houſe and the Buttery eight. The Court ſhall be thirty nine feet broad upon twenty ſeven deep, from which they muſt aſcend by twenty four ſteps to the body of the building, which hath twentie two feet deep upon the whole breadth of ſeventy two, and conſiſteth in a Hall and a Chamber, between which there muſt be placed the Stair-caſe. The Hall ſhall have in breadth thirty ſix feet, the ſtair-caſe ten, and the Chamber twentie three; and at the end, as well of the Hall as of the Chamber, ſhall be continued within the Garden two little Galleries, having each of them ten feet broad, upon the whole depth of the garden of twentie one feet. The which garden ſhall have fortie nine feet of breadth, and they muſt deſcend into it by the paſſage of the ſtair-caſe with two ſteps, and with two ſteps within the garden, which make the four ſteps whereby they aſcended from the Court to the body of the building: the which is ſo done, that thereby a conveni<g ref="char:EOLhyphen"/>ent raiſing might be allowed to the gate. The Privy ſhall be placed within the thickneſs of the wall, againſt the middle diviſion of the ſtair-caſe.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the Diviſion of the tenth Place.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His ſecond Story containeth a Chamber over the Stable, and another over the Kit<g ref="char:EOLhyphen"/>chen, having each of them fifteen feet broad upon twenty ſeven of depth. And as for the principal body of the building, it conſiſteth in two Chambers and a Ward<g ref="char:EOLhyphen"/>robe; the firſt over the Hall ſhall have twenty four feet broad upon the whole depth of twenty two feet. The Wardrobe joyning to the ſaid Chamber ſhall have twelve feet broad upon ſeventeen and an half of depth, by reaſon of the Paſſage of four feet which is on the Front. On the ſide of this Wardrobe ſhall be the Stair-caſe, and joyning unto that the Chamber, having the ſame breadth and depth with the firſt. And at the two ends of the two Chambers ſhall be two Cloſets, having the ſame breadth and depth with the galleries of the ſtory below. You may make Chimnies in theſe Cloſets if you pleaſe.</p>
+            </div>
+            <div type="division">
+               <pb n="24" facs="tcp:55243:51"/>
+               <head>The Elevation of the body of the building, of the tenth Place, as well in that which looketh toward the Court, as the two Wings over the Street.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Floor, as well of the Stable as of the Kitchen, ſhall be of the ſame Plumb-Line with the Court; and that of the Bo<g ref="char:EOLhyphen"/>dy of the Building ſhall be raiſed two feet above the Floor or Level of the ſaid Court, to which they ſhall aſcend by four ſteps placed in the ſaid Court.</p>
+               <p>The firſt Story ſhall have thirteen feet under the Joyſts, and containing the thickneſs of the Joyſts and Plancher, thirteen feet nine inches; to which they ſhall aſcend by thirty ſteps, of five inches and an half high apiece.</p>
+               <p>The ſecond Story ſhall have twelve feet nine inches, containig the thick<g ref="char:EOLhyphen"/>neſs of the Joyſts and Plancher; to which they ſhall aſcend by twenty eight ſteps of the like height of five inches and an half.</p>
+               <p>The third Story ſhall have eleven feet nine inches, containing the thick<g ref="char:EOLhyphen"/>neſs of the Joyſts and Plancher, to which they ſhall aſcend by twenty ſix ſteps of the like height of five inches and an half apiece.</p>
+               <p>Above may be Granaries.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groundplot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:52"/>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groundplot of the ſecond Storie,</head>
+               </figure>
+               <pb facs="tcp:55243:53"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:54"/>
+               <pb n="25" facs="tcp:55243:54"/>
+               <head>The Diviſion of the eleventh Place of ſeventy two feet of bredth, upon an hundred and twelve of depth, without the Garden.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Place may be divided according to the five ways of the ninth place by aug<g ref="char:EOLhyphen"/>menting the part as well in bredth as in depth, according as it may be found moſt convenient, and further alſo according to the Manner that followeth.</p>
+               <p>It muſt have two bodies of a Building, the one upon the Front, the other upon the Rear, with a Gallerie, which muſt joine the one to the other, and the Court in the middle.</p>
+               <p>The bodie of the Building on the Front muſt have twentie feet of depth, and its bredth muſt be divided into a Stable of eighteen feet, a ſtair-caſe of nine, a Coach-houſe of eleven feet, a gate for a Coach of nine, another Coach-houſe of eight feet, and another Stable of eleven feet and an half.</p>
+               <p>Next unto the firſt Stable on the left hand there muſt be another bodie of a Building, which muſt joine before unto that behinde, upon the ſame bredth of the Stable of eighteen feet, the which muſt be divided into two Chambers, whereof each muſt joine to its bodie of the building, and that which muſt joine to the ſtable muſt have eighteen feet in ſquare, and that which muſt joine to the bodie of the Building on the back-part, muſt have twentie four feet of depth, upon the bredth of eighteen. The two Wardrobes muſt be between the Chambers of eleven feet of depth each one. The Court muſt have fiftie two feet of bredth, upon fourtie eight of depth.</p>
+               <p>Next unto the Court, and before the principal bodie of the Building, muſt be an open gal<g ref="char:EOLhyphen"/>lerie of fifteen feet of depth, upon the whole bredth of the Court; and next unto the gal<g ref="char:EOLhyphen"/>lerie muſt be the principal bodie of the Building of twentie two feet of depth, upon the whole bredth of threeſcore and twelve feet: the which is divided into an Hall upon the left hand, a ſtair-caſe, and a Chamber. The Hall muſt have thirty eight feet and an half of bredth, the ſtairs twelve, and the Chamber eighteen feet and an half, and under the princi<g ref="char:EOLhyphen"/>pal bodie of the building, may be a Vault or Sellar, whereof the height muſt be the one half under the level of the Court, and the other half above it.</p>
+            </div>
+            <div type="division">
+               <head>The ſecond Story of the eleventh Place, according to the precedent Diviſion.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſecond ſtorie of the body of the building on the front, conſiſteth in a Chamber upon the firſt ſtable, a ſtair-caſe, and two other chambers; the firſt muſt have eighteen feet in bredth, the ſecond and third twentie feet in ſquare. Next to the firſt Chamber is a Gallerie, having ſixty four feet of depth upon eighteen of bredth.</p>
+               <p>The ſecond ſtory of the principal body of the building conſiſteth in a Cloſet and a Cham<g ref="char:EOLhyphen"/>ber over the Hall, a ſtair-caſe, and another chamber. The Cloſet ſhall have ſixteen Feet and an half of bredth, upon the whole depth of twenty two feet: The Chamber ſhall have twenty two Feet in ſquare, and the other Chamber eighteen feet and an half of bredth.</p>
+            </div>
+            <div type="division">
+               <pb n="26" facs="tcp:55243:55"/>
+               <head>The Elevation of the body of the Building on the Front of the eleventh Place, which looketh towards the ſtreet.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He floor of the bodie of the Building on the Front, and of the firſt Chamber and Wardrobe thereof on the left hand, muſt be of the ſame level with the Court: and muſt have of height eighteen feet and an half under the Joyſts, the which muſt be ſeparated by an Enter-Girder in all the Rooms or Apart<g ref="char:EOLhyphen"/>ments, which muſt be on the left hand of the Gate. The height from the floor under the Joyſts of the Enter-girder muſt have ten feet, and containing the thickneſs of the Joyſts and Plancher ten feet nine inches, to the which they muſt aſcend by twentie one ſteps of ſix inches and two parts each of them, and from the floor of the Enter-girder to under the Joiſts of the firſt ſtorie, there muſt be ſeven feet nine inches; and containing the thickneſs of the Joiſts and Plancher eight feet and an half; unto which they muſt aſcend by ſeventeen ſteps of ſix inches of height each of them.</p>
+               <p>The ſecond ſtorie muſt have twelve feet under the Joiſts, and containing the thickneſs of the Joiſts and Plancher, twelve feet nine inches, to the which they muſt aſcend by twentie four ſteps, which muſt have of height ſix inches four parts and an half each of them.</p>
+               <p>Above may be garners or chambers in Garrets, from nine to ten feet under the Joiſts.</p>
+            </div>
+            <div type="division">
+               <head>The Elevation of the principal body of the building, of the eleventh Place, on the Front next the Court.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He open gallerie muſt be raiſed above the level of the Court two feet, as alſo the Chamber and Wardrobe joyning thereto; to the which they muſt aſcend from the Court by four ſteps; and the floor of the bodie of the principal building muſt be raiſed above that of the gallerie two feet and an half, to which they muſt aſcend by five ſteps of ſix inches each of them<g ref="char:punc">▪</g> ſo that the floor of the bodie of the building muſt be raiſed above that of the Court four Feet and an half, whereof are nine inches for the thickneſs of the Joiſts and Plancher; ſo there will remain under the Plancher three feet nine inches; But we do allow nine feet of height under the joiſts to the Offices or Sellars; it will remain then to take under the floor of the Court five feet three inches, and we muſt have to deſcend nine feet nine inches. The which will be convenientlie made by nineteen ſteps of ſix inches and two parts each of them, whereof five ſhall be taken within the paſſage for to go to the garden, the which ſhall ſerve to allow to the gate of the garden a convenient raiſing, the o<g ref="char:EOLhyphen"/>ther fourteen ſhall be taken under the Turning-ſtairs on the right hand. They ſhall deſcend into the garden by four ſteps to come back to the Floor of the Court.</p>
+               <p>The firſt ſtorie ſhall have of height from the Floor to the bottom of the Joyſts fourteen feet, and containing the thickneſs of the Joyſts and Plancher fourteen feet nine inches, to the which they ſhall aſcend by twentie eight ſteps of ſix inches and four parts apiece.</p>
+               <p>The ſecond ſtorie ſhall have thirteen feet nine inches containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by the ſame quantitie of twentie eight ſteps, of five inches and eleven parts high apiece.</p>
+               <p>The third ſtorie ſhall have eleven feet under the Joyſts.</p>
+               <p>Above may be Granaries.</p>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groundplot of the first Story,</head>
+               </figure>
+               <pb facs="tcp:55243:56"/>
+               <figure>
+                  <figDesc>floor plan</figDesc>
+                  <head>The Groundplot of the ſecond Story,</head>
+               </figure>
+               <pb facs="tcp:55243:57"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+               </figure>
+            </div>
+            <div type="division">
+               <pb facs="tcp:55243:58"/>
+               <pb n="27" facs="tcp:55243:58"/>
+               <head>The Diviſion of the twelveth Place, which is a double Pavillion, having of breadth ſeventy feet, upon thirty ſix of depth,</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Pavilion conſiſteth in a Chamber upon the left hand, a Stair-caſe, and Hall, ha<g ref="char:EOLhyphen"/>ving the Proſpect of three ſides, a Portal behind the Stair-caſe, and Wardrobe joyning to the Chamber, the which Chamber ſhall have twenty two feet in ſquare; the Stairs ſhall have in breadth twenty two feet upon nineteen of depth, in the midſt of which is a Paſſage of ſix feet, the hall ſhall have twenty two feet of bredth, upon the whole depth of thirty ſix, the Portall ſhall have the ſame bredth with the ſtairs upon eighteen feet of depth, and the Wardrobe thirteen feet and an half of depth, upon the whole bredth of the Chamber.</p>
+               <p>The ſecond and third ſtory ſhall be like to the firſt, except that over the Hall, there ſhall be made a Wardrobe of the ſame depth with that below, and above the Portall ſhall be made Chambers.</p>
+               <p>For the heights, the floor of the body of the Building, ſhall be raiſed three feet above the level of the ground without, to which they ſhall aſcend by ſix ſteps, as well before as behinde: and ſhall have from the floor to under the Joyſts fourteen feet, and containing the Joyſts and Plancher fourteen feet nine inches, to the which they ſhall aſcend by thirty ſteps, of five inches eleven parts each of them.</p>
+               <p>The ſecond ſtory ſhall have thirteen feet nine inches, containing the thickneſs of the Joyſts and Plan<g ref="char:EOLhyphen"/>cher, to the which they ſhall aſcend by the like quantitie of thirty ſteps, of five inches and an half each of them.</p>
+               <p>The third ſtory ſhall have twelve feet under the Joyſts.</p>
+            </div>
+            <div type="division">
+               <head>The Diviſion of the thirteenth Place, of an hundred and one feet of breadth, upon forty five of depth, which is a body of a building between two Pavillions.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Body conſiſteth between two Pavillions on the two ſides, and an Hall in the middeſt. Each Pavillion divided into a Chamber on the back part, a Wardrobe and Staircaſe on the Front. The Wardrobe ſhall have thirteen feet of breadth upon twenty of depth; the Stairs ten feet of breadth upon the ſaid depth of twenty feet; the Chamber ſhall have twenty four feet in ſquare; the Hall ſhall have forty eight feet of breadth upon twenty four of depth, and before the Hall ſhall be an open Gallery of fourteen feet deep upon the whole breadth of the Hall, which is forty eight feet. Underneath both the Pavillions and the Hall ſhall be Vaults or Cellars.</p>
+               <p>The ſecond Story ſhall differ in nothing from the firſt, except that over the Hall you may make two Chambers and a Wardrobe, as you ſhall find it moſt convenient.</p>
+               <p>For the heights, the Floor of the Vaults ſhall be the Plumb Line even with that without, into which they ſhall enter upon even ground under the open Gallery, and ſhall have in height under the Joyſts nine feet, and thereby the Floor of the Body of the Building ſhall be raiſed above the ſurface of the Street nine feet nine inches, to which they ſhall aſcend from without by a round Stair-caſe, which is on the Fron<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Gallery, and ſhall have on each ſide ſeventeen ſteps, of ſix inches and two parts apiece, for to come to the Floor of the Gallery, from which they ſhall aſcend ſtill by two ſteps of the like height, as well to enter into the Hall, as to the two Stair-caſes; and theſe nineteen Steps will make juſt the nineteen fee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nine inches. And from the Cellars or Vaults they ſhall aſcend under covert to the two Stair-caſes of the Pavilions, by ſeventeen ſteps of ſix inches and eleven parts high apiece.</p>
+               <p>The firſt Story ſhall have of height fourteen feet nine inches containing thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by the two turning Stairs, by thirty three ſteps of five inches and four parts apiece. Above the Hall ſhall be Chambers, which ſhall be from ten to eleven feet high.</p>
+               <p>The ſecond Story of the Pavillions ſhall have thirteen feet nine inches, containing the thickneſs of the Joyſts and Plancher, to which they ſhall aſcend by the ſame quantity of thirty three ſteps of five inches high apiece.</p>
+               <p>Above may be Granaries or Chambers in Garrets.</p>
+            </div>
+            <div type="division">
+               <pb n="28" facs="tcp:55243:59"/>
+               <head>A Deſcription of the manner of framing the Timber-work Buildings, with the Names of the particular Members. Alſo Directions and Examples for the Placing of them.</head>
+               <p>HAving hitherto largely diſcourſed of Buildings of Maſons and Brick-layers-work, it ſeem<g ref="char:EOLhyphen"/>eth alſo fitting for us to diſcourſe likewiſe of Carpenters and Plaiſterers work, which may ſerve for the Places where ſuch Building commonly is made, and for other alſo in the which one may be compell'd thereto, in reſpect of the ſmall ſpace that one may have. The Carpenters Work then of a Building ſhall be ſet upon the Maſons or Bricklayers work, a<g ref="char:EOLhyphen"/>bout two feet or two and an half of height, above the level of the ſtreet, for to hinder the putrifying of the firſt mortering, the which ſhall be placed upon the ſtone or brick-work, with an inch or an inch and an half of ſetting off with this obſervation, in reſpect of the Maſonry, to ſet out with free-ſtone, or hard grey ſtone, or the like, the Places where Gates cloſe together. The Summers ſhall be joyned to<g ref="char:EOLhyphen"/>gether upon the ends of the chief Poſts which divide the rooms, with half an inch of in-bearing, and it is good, that theſe chief Poſts have in thickneſs and bredth the double of others. Upon theſe chief Poſts ſhall meet the ſecond, third and fourth Summers, whereof the ſecond and third are placed about the Planchers, and within theſe Summers the Poſts, as well of the doors work as the Croſs-bars of Windows ſhall meet by Tenons and Mortaiſes, as the Pieces and Poſts that fill up ſhall be in the midſt, together with the parts of Braces: and within the Poſts of the Croſſes ſhall meet that which upholds underneath, and the head-pieces above, and underneath the ſaid Croſſes ſhall meet by Tenons and Mor<g ref="char:EOLhyphen"/>taiſes, at the Summer and prop of the Croſs-bars, the ſmall Poſts and quarters, and above the ſaid Croſ<g ref="char:EOLhyphen"/>ſes, do joyn by Tenons and Mortaiſes, at the Summer and lintel of the Croſs, three ſmall poſts or croſs rafters. Now the ſpaces which are between may be filled up three ſeveral ways, that is, with ſingle bars and a poſt in the midſt, or elſe with croſs-braces and poſts by the ſide, the third with little bars and poſts on the ſide: And above the door-works ſhall meet three ſmall poſts within the Summer, and above the Boarding ſhall be made a ſmall Pinacle of Timber-work for covering of the Tyles or Slate, accord<g ref="char:EOLhyphen"/>ing to the Manner ſet forth hereafter, the which Pinacle ſhall be made by the means of two rafters and Spars above, the which rafters ſhall meet below within the Summer of the Boarding, and above within the King Poſt, and within the ſaid rafters ſhall be fixt with Tenons and Mortaiſe upon the middle of the King Poſt. Within the which wedge, and within the Summer below ſhall meet the Poſts of the Croſſes, and the ſpaces filled ſo as hath bin ſaid, and above the ſaid Wedge there ſhall meet two Coun<g ref="char:EOLhyphen"/>ter-fixt pieces with the Poſts that fill up; and before the Kings Poſt, or ſmall Pinacle and pannell of wood ſhall be made a round Shutter, bearing out about two feet or two feet and an half, born up below upon the raiſing-piece, and three ſtayes with three Cattoozes underneath.</p>
+               <p>And in caſe that one would make the ſpout on the ſide of the pannel of wood, one may do it, but in ſtead of the filling up that between the Croſſes, there will be need to adde thereto poſts of cloven-wood or ſhingles, by the means of which they may change their Beams in their ſituation, making them to be born upon the ſaid poſts, having Cattoozes for the ſtraight bearing up of the ſaid Beams for the inſide, by Tenons and Mortaiſes, and an under-Top above about the midſt of the King Poſt, likewiſe meeting in the ſaid King Poſt with two quarters by Tenons and Mortaiſes, and within the ſaid King Poſt under<g ref="char:EOLhyphen"/>neath the under-top ſhall the Bands meet together cut into two about the place of the ſaid under-Top, the which ſhall be bound as well with the ſaid King Poſt, as the Top and under-Top by Tenons and Mortaiſes, and they ſhall be ſo ſpaced above, that they ſhall divide the Top into three parts; and the one of thoſe three parts being again divided into two, we muſt allow three of the like to the ſpace from be<g ref="char:EOLhyphen"/>low the Top unto the end of the Band. And in caſe that the Band and under-Top may happen to be confounded together in the King-poſt, we muſt take the joyning of the Band and King-poſt lower, at the diſcretion of the Workman, ſo that we do not weaken the body of the King-poſt. And the Tops ſhall be bound the one to the other, by the means of long joynts with notches, right with the King-Poſt, and pinn'd with pins of wood, and the under-Top-pieces, Bands and King-Poſt, ſhall be faſtned with two moldings which encompaſs the King-Poſt, under-Tops and Bands at the place of their Meetings. Theſe moldings ſhall be pinn'd the one with the other, and to the under-Top by pins of wood, croſſing over from part to part, and the rafters muſt be ſpaced upon the tops and gutter-pieces from two feet to two feet, if the rafters are of a good bigneſs, or of ſixteen inches, if they be weak; for by this means the lath, which is commonly four feet in length, ſhall bear upon three rafters from two to two feet, and upon four from ſixteen to ſixteen inches. Here is what may be ſaid, as well concerning the Compaſs-rafters, as the Top of the Common-Coverings, according to the firſt Manner, but the whole may be ſeen more diſtinctly in the deſigns then can be expreſſed in words.</p>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <head>The Ground plot of the first Storie,</head>
+               </figure>
+               <pb facs="tcp:55243:60"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+               </figure>
+               <pb facs="tcp:55243:61"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+                  <p>
+                     <list>
+                        <item>1 The Summers</item>
+                        <item>2 The great Poſts</item>
+                        <item>3 The Window Poſts</item>
+                        <item>4 The ſmal Quarters</item>
+                        <item>5 The Croſs Braſeis</item>
+                        <item>6 The ſingle Braceis</item>
+                        <item>7 The Quarters &amp; Braceis</item>
+                        <item>8 The Doore Poſts</item>
+                        <item>9 The Doore &amp; Window heads</item>
+                        <item>10 The ſmal bearing Blocks</item>
+                        <item>11 The Braceis and Quarters</item>
+                        <item>12 The Coller Beame</item>
+                        <item>13 The Counterfixt pieces</item>
+                        <item>14 The Compaſs rafters</item>
+                        <item>15 The Raiſing pieces</item>
+                        <item>16 The Stayes</item>
+                        <item>17 The Cattoozes</item>
+                     </list>
+                  </p>
+               </figure>
+               <pb facs="tcp:55243:62"/>
+               <figure>
+                  <figDesc>architectural diagram</figDesc>
+               </figure>
+               <pb facs="tcp:55243:63"/>
+            </div>
+            <div type="division">
+               <pb n="29" facs="tcp:55243:63"/>
+               <head>The manner of framing the Roofs which are made for the Covering, and firſt of thoſe in which there is a Raiſing of the Boarding above the laſt Plancher or Floor, as when Chambers are made in Garrets.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving hitherto diſcourſed of the Order, Meaſure, and Framing of Buildings, of Maſons work, Bricklayers, and Carpenters, from the Foundation unto the Board<g ref="char:EOLhyphen"/>ing; it remaineth for us to ſpeak of the Coverings or Roofs, which ought to ſuſtain them. Now theſe Coverings muſt be either of Tiling or Slate; which are the moſt common and uſual Materials. The Tiling, that it may be conveniently upheld, hath no need that the Triangle of its Roof have an equal elevation with that of the Slate; but it is ſufficient that when its Baſis (that is to ſay, the breadth of the whole Building) ſhall contain eight parts, the two ſides, which meet at the top, may have ſeven apiece. The Roofs, which are made for Slate, muſt have more elevation, both in reſpect of the wind, which would carry away the ſaid Slate, as for the return of the wa<g ref="char:EOLhyphen"/>ter, which rots it. Some are content with the Equilateral Triangle for the ſhape of the Roof for ſlate; Others having the wood at Command do raiſe it yet more, to wit, in ſuch manner, that when the Baſis, which is always the bredth of the bulk of the Building containeth eight parts, the two ſides which meet at the Top contain each of them nine. Now whether you make your Covering of Tyle or Slate, you may uſe indifferently the following faſhions, there being no difference between the one and the other, but that which the framing of the Triangles of their Roofs doth cauſe, and ſuch Coverings, as well of Tyles, as of Slate, are made either with raiſing of the Boarding above the laſt Plancher, or without the Raiſing: if it be with raiſing up, ſuch work may be made yet in two manners, that is to ſay, between two ſmall Pinacles, or with a Top, and each of theſe is varied ſtill in two ſorts, the firſt with the kneel<g ref="char:EOLhyphen"/>ing Rafters, the ſecond with the Platform. According to the firſt manner the kneeling Rafters are pla<g ref="char:EOLhyphen"/>ced upon the bearings of the Beams, which are the ends of them which bear upon the body of the walls; and it ſufficeth that there be between four and five inches from the end of the beam unto the outſide of the wall, and the ſaid kneeling Rafters meet within the beams with Tenons and Mortaiſes. And it muſt be obſerved, that the ſaid kneeling Rafters muſt be kept as ſtreight as can be made, to the end that the in<g ref="char:EOLhyphen"/>ſide of that place be not hurt thereby, having alſo regard that we keep them not ſo ſtreight that they may hinder the Covering. The kneeling Rafters do uphold the Choler-beams, to which theſe are joyned like<g ref="char:EOLhyphen"/>wiſe with Tenons and Mortaiſes, and bound above alſo with Struts meeting together with Tenons and Mortaiſes, in ſuch manner as for two parts taken within the Choler there be three taken in the kneeling Rafters; and upon this beam may be alſo made a later Plancher. Above this beam, and at the ends of it do meet alſo two kneeling Rafters by Tenons and Mortaiſes, as well within the Choler, as within the top of the King-poſt, of which the bottom beareth ſtreight upon the middeſt of the Choler. This King-poſt ſhall be ſet out with Emboſſes both above and below, and at the ends of the Counter-fixt pieces and bands. Theſe kneeling Rafters are alſo bound to the King-poſt with little Struts, bearing right upon it; and they meet as well with the Choler as with the kneeling rafters with Tenons and Mortaiſes. And within the King-poſt and the kneeling Rafters are alſo the Counter-fixt pieces meeting by Tenons and Mortaiſes: and the Counter-fixt pieces are joyned to the kneeling Rafters juſt even with the Gut<g ref="char:EOLhyphen"/>ter-pieces, which Gutter-pieces are upheld with pieces pinned faſt with pins of wood; and thoſe pieces are alſo ſuſtained by Brackets, indented about an inch, or three fourths of an inch below within the bo<g ref="char:EOLhyphen"/>dy of the kneeling Rafters, coming to decay to nothing above or under the knob. And there ſhall be placed two other Gutter-pieces upon the heads of the ſaid Chollers, and at the ends of the ſaid kneeling Rafters, and upon the ſaid Gutter-pieces, as well above as below the rafters ſhall be placed, which ſhall meet the one with the other, with Tenons and Mortaiſes above, and be indented within the outward ridge of the ſaid top-piece within an inch, and ſhall be placed below upon the Boarding, within an inch or an inch and an half inward upon the thickneſs of the wall, to take without, except the Projector. And the ſaid rafters ſhall be pierced, or otherwiſe faſtened and pinned with pins of wood, over-thwart the bodies of the ſaid Gutter-pieces; and upon the feet of the ſaid rafters ſhall be ſet ſmall Spars nailed upon the ſaid rafters, and where the bottom ſhall bear unto the edges of the Projecture of the Boarding, to the end to caſt back the water behind the walls. All that is above is for the deſcription and ordering of the fer<g ref="char:EOLhyphen"/>mers. There remaineth to diſcourſe of the upper pieces, which are from quarter to quarter; for the framing of which the top doth meet within the end above of the King-poſt.</p>
+               <p>The ſecond manner, which is made with the Elevation and Plat-form, is framed thus: upon the two ends of the walls are placed two Summers, in ſuch manner that not any part of them bear amiſs. They ſhall be joyned the one to the other by Mortis and Tenant upon their whole length, with a ſpace between them from ſix to ſix feet. Upon theſe Summ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs are Planks with blocks or pieces to hold faſt, and a tail
+<pb n="30" facs="tcp:55243:64"/>
+of Iron faſtned within them, about an inch or an inch and an half, ſo that the upper part of the ſaid rai<g ref="char:EOLhyphen"/>ſing-peece come even: and above the ends of the raiſing-pieces ſhall be placed the chief rafters, and meet together by Tenons and Mortaiſes within the ſaid raiſing-peeces, and above within the Body of the King Poſt: and upon the ends of the raiſing-peeces within, ſhall be born ſmall legs or peers, meeting with Tenons and Mortaiſes, and at the height that you would allow to the ſtory in the Garrets ſhall be drawn a Beam, from one rafter to another, meeting with Tenons and Mortaiſes, and bound below by Struts, having ſpace between, even as we have ſaid of the Braces, and above the ſmall legs or peers, and in the midſt of the Beam ſhall be the King-Poſt placed, whereof we have ſpoken heretofore, with Te<g ref="char:EOLhyphen"/>nons and Mortaiſes, and pins of Iron under the Beam, if need be, and about the midſt of the ſaid long piece, ſhall meet another ſmall Beam of two pieces by Tenons and Mortaiſes, joyned and upheld by Struts as the foregoing. That which above is the deſcription of the chief rafter. Now the ſmall raf<g ref="char:EOLhyphen"/>ters which are between the chief rafters, are called the filling up Fermes, and have ſpace between them from two to two feet, from midſt to midſt, and are ſet out with equal parts to the chief rafters, and like<g ref="char:EOLhyphen"/>wiſe placed beſides the King-Poſt, and that the Beams nor the rafters are not ſo thick. That which is ſaid above in reſpect of the rafters or ſides, as well the chief, as the fillers up. It remaineth to ſpeak of the Top-pieces, which are framed by Tops meeting together above within the heads of the King-Poſt, and two Mortaiſes and tenant, the one below, the other above, carried upon the even Beams, and meet<g ref="char:EOLhyphen"/>ing by the two ends, within the bodies of the ſaid King-Poſt. And within the Top being between two King-poſts, do meet together above two Bands, cut into two, the which below do meet with Tenons and Mortaiſes, as well at the Mortis and tenant, as at the body of the ſaid King-poſt, and as concerning the ridges, there ſhall be made an half ferm, or ſide-poſt within the midſt, in like manner as unto the foregoing chief rafters, except that it ſhall be a little more ſtiffe or ſtrong, and of the one ſide and the other of the ſaid half ferme, there ſhall be in ſpaces, other half-fermes, or fillers up, or pannels from two feet to two feet, or from ſixteen to ſixteen inches, from midſt to midſt, whereof the Branchings ſhall meet with Tenons and Mortaiſes within the body of the Struts, and within the pannels or ſmall rafters; the which order ſhall alſo be kept on the ſide of the long pannel from the outward ridge unto the meeting of the chief rafters. And within the raiſing-peece, which is in the Angle athwart upon the Platform, is the outward ridge-meeting, whereof the Top is joyned to the opening within the ridg of the King-poſt a<g ref="char:EOLhyphen"/>bove, and this ridge doth meet below with one ſmall leg or piece, within the ſaid raiſing-peece, and within the body of the ſaid ridge, as alſo within the Bracers near to the King-Poſt, ſhall meet by Tenons and Mortaiſes two Struts, the one below, and the other above, and there ſhall meet two great Stays or Eſ<g ref="char:EOLhyphen"/>ſeliers within the ſaid girder and the outward ridg, ſo that the little Stays which ſhall reach thither, may meet together within. In like manner alſo ſhall meet the pannels, as well within the raiſing-piece, as within the out-ridge, as alſo the peers, the whole with Tenons and Mortaiſes, with ſpace, as is ſaid from two to two feet, or from ſixteen to ſixteen inches. Here is that, we judged needful to be ſaid for the places, where there is elevation of the Boarding above the laſt Plancher. It remains to ſpeak of thoſe, where there is no elevation, which may alſo be framed by the ſecond Manner, which we are about to ſet forth, and by the third and fourth following.</p>
+               <p>The third Manner hath very much reſemblance with the firſt, except that in ſtead of the Aſhlins and of the Rafters applied above them, there are none but ſingle Rafters, continuing from the bottom to the Top, and which bear upon the Beams, and upon the body of the walls below, and within the King-poſt a<g ref="char:EOLhyphen"/>bove. The which King-poſt deſcends even unto the midſt of the Beam, to the which it is joined with Tenons and Mortaiſes, and in caſe that the Beam hath a great Bearing, one may alſo binde the King-poſt with the ſame, with plates and pins of iron, ſo that the rafters be well joined together within the body of the King-poſt, with the ends. But if the Beam hath not a great bearing, one may make the Beam of one piece, and cut the King-poſt above the ſame, which ſhall meet with the ſaid Beam, with Tenons and Mortaiſes, and by this means the Garrets ſhall be freed from the inconveniency of the King-poſt.</p>
+               <p>The fourth manner is not much unlike to the ſecond, except that the King-poſt deſcendeth upon the midſt of the Beam, and that the Boarding hath not any elevation upon the laſt Plancher or Floor: and beſides this, that there are Enterlaces over the bredth of the ſides, upon the ends of the great Beams, the King-poſt is joined with the Beam by Tenons and Mortaiſes. And if it chance that the Beam hath a long bearing, one may ſupport it with the King-poſt, with plates and pins of iron: but if the Beam hath no great Bearing, they may make it of one piece, and within it the King-poſt ſhall meet, without any need to continue it lower.</p>
+               <p>There remaineth yet two other manner of ſmall roofs, for to cover the paſſages, ſtairs, gal<g ref="char:EOLhyphen"/>leries, and other conveniences, whereof the firſt is made with ſmall fermes, and ſingle fermes, The ſmall fermes or rafters joined are compoſed of two ſpars or rafters, a King-poſt in the midſt, and a Beam or ſmall piece indented within another, the two rafters meeting together above within the head of the King-poſt, by Tenons and Mortaiſes, and born below upon the Summers, if they be of Board, or upon the Platform of it if it be Maſons work. The
+<pb n="31" facs="tcp:55243:64"/>
+Beam meeteth in the rafters, and in the King-poſt by Tenons and Mortaiſes. The ſingle Roofs are compoſed of two Rafters coupled above with Tenon and Mortaiſe, and with a Beam made of two pieces, meeting within the rafters, and within the bodie of the croſs-quarter, which goeth from one quarter to the other, and ſhall bear up the rafters be<g ref="char:EOLhyphen"/>low, upon the Summers or upon the Platforms, as hath bin ſaid.</p>
+               <p>The ſingle fermes or quarters, muſt have ſpace between from two feet to two feet, or from ſixteen inches to ſixteen inches. The top-piece, or croſs-bar on high between the two ſmall quarters, muſt be upheld by two bands meeting together, as well within the piece of the top or upper part, as within the Bodie of the King-poſt by Tenons and Mortaiſes, unto the which we may joine an overthwart rafter, or croſs-brace through the midſt, if the bearing be o<g ref="char:EOLhyphen"/>ver-long. The Top muſt be compoſed of a Beam on the top, meeting within the great beam of the ferme, and within the rafter of the top, and with two braces likewiſe meeting within the ſaid wedges, within the which braces muſt meet two rafters, the which likewiſe ſhall go to meet within the outſide ridges. And within the rafters muſt meet alſo ſmall wedges, ha<g ref="char:EOLhyphen"/>ving ſpace between them from ſixteen to ſixteen inches, or from two to two feet, as hath bin ſaid, and they muſt come again to meet within the pannels, and the ſaid pannels ſhall meet below within the Summers or Platforms, and above within the out-ſide ridges.</p>
+               <p>The other Manner of ſmall roof is that which they call a Pent-houſe, the which is com<g ref="char:EOLhyphen"/>poſed of an half ferme, which conſiſteth in a Cloſer or Tirant, born within the two bodges of the wall, upon the which Tirant or Cloſer is made to meet the great King-poſt, upon the length of the great wall, and within the Tirant or Cloſer, there meets a Strut, or bearer upheld by its middle with a Counter-fixt piece, likewiſe meeting as well in the ſaid Strut as in the body of the King-poſt. At the end of the Counter-fixt piece, and above the ſtrut muſt be placed a pannel or piece ſuſtaining a gutter, upheld by Taſſeau and a bracket, and between the two half fermes ſhall be the top or upper-piece, compoſed of a piece of wood; meeting, and born upon the heads of the King-Poſt by tenons and mortaiſes, and upheld be<g ref="char:EOLhyphen"/>low by bands. And upon the upper-piece the pannel, ſummer or platform, the rafters ſhall be placed, having ſpaced between each, from two to two feet, or from ſixteen to ſixteen inches, and the ſaid rafters ſhall be pierced and faſtned with pins of wood, as well upon the gutter-props as the upper-piece, and below the ſaid rafters ſhall be applied rafters feet, nailed upon the ſaid rafters.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:55243:65"/>
+            <head>A CATALOGUE of ſome Books and Prints, as are Printed for <hi>Robert Prick</hi> and are to be ſold at his Shop in <hi>White-croſs-ſtreet,</hi> and likewiſe at the Golden Lion at the Corner of <hi>New-Cheapſide near</hi> Bethlehem.</head>
+            <p>A New Treatiſe of <hi>Architecture,</hi> according to <hi>Vitruvius.</hi> Wherein is diſcourſed of the five Orders of <hi>Columns, viz.</hi> The <hi>TUSCAN, DORICK, IONICK, CORINTHIAN,</hi> and <hi>COMPOSITE.</hi> Divided into ſeven Cha<g ref="char:EOLhyphen"/>pters. Which declare their different Proporti<g ref="char:EOLhyphen"/>ons, Meaſures and proper Names, according to the Practice of the ancient <hi>Architects,</hi> both <hi>Greeks</hi> and <hi>Romans;</hi> as alſo of their Parts general and particular, neceſsary in the build<g ref="char:EOLhyphen"/>ing of Temples, Churches, Palaces, Caſtles, Fortreſſes, and all other Buildings, with their Dependents: As Gates, Arches-Triumphant, Fountains, Sepulchres, Chimneys, Croſs-hard Windows, Portals, Platforms, and other Or<g ref="char:EOLhyphen"/>naments; ſerving as well for the beautifying of Buildings in Cities, as for neceſsary Forti<g ref="char:EOLhyphen"/>fications of them. Deſigned by <hi>Julian Mau<g ref="char:EOLhyphen"/>clerc,</hi> Lord of <hi>Ligneron Mauclerc, Broſ<g ref="char:EOLhyphen"/>ſandiere</hi> and <hi>Remanguis.</hi> Whereunto are added the ſeveral Meaſures and Proportions of the famous Architects, <hi>Scamozzi, Palladio,</hi> and <hi>Vignola:</hi> With ſome Rules of Perſpe<g ref="char:EOLhyphen"/>ctive. The whole repreſented in fifty large Prints, enriched with the rareſt Ornaments of Antiquity, and Capitals of extraordinary greatneſs, with their Architraves, Frieſes, and Corniſhes proportionable.</p>
+            <p>A New Book of <hi>Architecture,</hi> Wherein is re<g ref="char:EOLhyphen"/>preſented fourty Gates and Arches Triumphant, Compoſed of different Inventions, according to the Five Orders of Columns, <hi>viz.</hi> The <hi>Tuſ<g ref="char:EOLhyphen"/>cane, Dorick, Ionick, Corinthian</hi> and <hi>Compoſite.</hi> By <hi>Alexander Francine</hi> Florentine, Engineer in Ordinary to the French King: With a Deſcription of each Figure.</p>
+            <p>A Book of <hi>Architecture,</hi> containing Cieling-pieces, Chimney pieces, and ſeveral ſorts uſe<g ref="char:EOLhyphen"/>ful for, Carpenters, Joyners, Carvers, Paint<g ref="char:EOLhyphen"/>ers, invented by <hi>J. Barbet.</hi>
+            </p>
+            <p>
+               <hi>GETHINGS Redivivus:</hi> or the <hi>Pens Ma<g ref="char:EOLhyphen"/>ſter-piece.</hi> Being the laſt Work of that Emi<g ref="char:EOLhyphen"/>nent and Accompliſhed Maſter in this Art. Con<g ref="char:EOLhyphen"/>taining Examples of all curious Hands Writ<g ref="char:EOLhyphen"/>ten, and now in Practice in <hi>England,</hi> and the Neighboring Nations: With neceſſary Rules and Directions towards the attaining of Fair Writing. Alſo Directions for making the beſt Pens, and ſeveral ſorts of very good <hi>Ink,</hi> as <hi>Black, Red, Green, Yellow,</hi> and <hi>Purple;</hi> And how to write with Gold and Silver, and to poliſh it to make it gliſter. Likewiſe how to Etch or Engrave a Coat of Arms, Figure or Poſie, on Silver, Copper, Braſs, Iron, or hardned steel. With an Appen<g ref="char:EOLhyphen"/>dix, Shewing the exact manner of making all ſorts of Bonds, Letters of Attourney, Releaſes.</p>
+            <p>A New Book of the Art of Drawing, contain<g ref="char:EOLhyphen"/>ing ſeveral plain and eaſie Examples, fit for Learners to practiſe by, Collected out of the Works of ſome of the moſt eminent Maſters of this famous Art, <hi>Albertus Durer, Abraham Bloemaert,</hi> and divers others, ſo plain, that any one of reaſonable capacity may learn to draw all parts of a man ſeveral, as head, arms, legs, hands and feet by themſelves, al<g ref="char:EOLhyphen"/>ſo in whole Proportion, <hi>&amp;c.</hi>
+            </p>
+            <p>A Book of Mauntlins.</p>
+            <p>A Book of <hi>Sheilds.</hi>
+            </p>
+            <p>A Book of Anticks.</p>
+            <p>A large Map of <hi>London</hi> before the Fire, with a Deſcription of the Antiquities and Cu<g ref="char:EOLhyphen"/>ſtoms.</p>
+            <p>Another Map of the aforeſaid City, as it lay in its Ruins, wherein may be ſeen what Chur<g ref="char:EOLhyphen"/>ches, Halls, and Places of note, with a mul<g ref="char:EOLhyphen"/>titude of Houſes that were burned and rui<g ref="char:EOLhyphen"/>nated in four days time, by that dreadful and lamentable fire which begun in <hi>Pudding-lane Dec. 2. 1666.</hi>
+            </p>
+            <p>
+               <hi>Jupiter</hi> and <hi>Venus</hi> of Sir <hi>Anthony Van Dike's</hi> Etching.</p>
+            <p>The Anatomie of the inward parts of Man and Woman, lively ſet forth, and diligentlie, de<g ref="char:EOLhyphen"/>claring the principal Veins, with the uſe of letting Blood: very neceſſarie for Phyſicians and Chyrurgions, and all other that deſire to know themſelves.</p>
+            <p>The New and pleaſant Game of the Gooſe.</p>
+            <p>The five Senſes in large Royal ſheets.</p>
+            <p>The four Seaſons in large ſheets.</p>
+            <p>Scripture-ſtories in large ſheets, as <hi>Adam</hi> and <hi>Eve, Abraham</hi> offering up his Son <hi>Iſaac, Eliſha</hi> fed by Ravens, with the woman of <hi>Samaria,</hi> the Judgement of <hi>Solomon</hi> be<g ref="char:EOLhyphen"/>tween the two Harlots, <hi>Suſanna</hi> and the two Elders, Queen <hi>Eſther, &amp;c.</hi> even all others of the old and New Testament.</p>
+            <p>BOOKS of Land-skips, Sea-pieces, Birds, Beaſts, Flies, Flowers and Fruits, theſe with ſeveral others, black and white or coloured, are to be ſold at the above ſaid places.</p>
+            <figure>
+               <figDesc>roof diagrams</figDesc>
+            </figure>
+            <pb facs="tcp:55243:66"/>
+            <figure>
+               <figDesc>architectural diagram</figDesc>
+            </figure>
+            <pb facs="tcp:55243:67"/>
+            <figure>
+               <figDesc>roof diagrams</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>
